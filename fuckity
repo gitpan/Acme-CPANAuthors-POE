@@ -1,0 +1,1160 @@
+Downloaded '/home/chris/dev/perlmods/git/Acme-CPANAuthors-POE/01mailrc.txt.gz'
+Downloaded '/home/chris/dev/perlmods/git/Acme-CPANAuthors-POE/02packages.details.txt.gz'
+Acme::CPANAuthors::POE
+AnyEvent::Impl::POE
+Apache::Backend::POE
+App::Context::POE
+Carp::POE
+Catalyst::Engine::HTTP::POE
+Catalyst::Engine::JobQueue::POE
+Catalyst::Helper::JobQueue::POE
+Curses::UI::POE
+Data::Remember::POE
+Gungho::Engine::POE
+HTTP::Engine::Interface::POE
+IO::Lambda::Loop::POE
+LWP::UserAgent::POE
+MooseX::POE
+ooseX::POE
+Plack::Server::POE
+POE
+POE::API::Hooks
+POE::API::Peek
+POE::Callback
+POE::Component
+POE::Component::AI::MegaHAL
+POE::Component::AIO
+POE::Component::Algorithm::Evolutionary
+POE::Component::Algorithm::Evolutionary::Island
+POE::Component::Algorithm::Evolutionary::Island::POEtic
+POE::Component::Amazon::S3
+POE::Component::App::PNGCrush
+POE::Component::Archive::Any
+POE::Component::ArpWatch
+POE::Component::AssaultCube::ServerQuery
+POE::Component::AssaultCube::ServerQuery::Server
+POE::Component::AtomAggregator
+POE::Component::Audio::Mad::Dispatch
+POE::Component::Audio::Mad::Handle
+POE::Component::Basement
+POE::Component::Basement::Std
+POE::Component::BlogCloud
+POE::Component::BlogCloud::SAXHandler
+POE::Component::BlogCloud::Update
+POE::Component::Cache
+POE::Component::Captcha::reCAPTCHA
+POE::Component::CD::Detect
+POE::Component::CD::Rip
+POE::Component::Child
+POE::Component::Client::AirTunes
+POE::Component::Client::AMQP
+POE::Component::Client::AMQP::Channel
+POE::Component::Client::AMQP::Queue
+POE::Component::Client::Asterisk::Manager
+POE::Component::Client::Bayeux
+POE::Component::Client::Bayeux::Transport
+POE::Component::Client::Bayeux::Transport::LongPolling
+POE::Component::Client::Bayeux::Utilities
+POE::Component::Client::BigBrother
+POE::Component::Client::CouchDB
+POE::Component::Client::CouchDB::Database
+POE::Component::Client::DNS
+POE::Component::Client::DNS::Recursive
+POE::Component::Client::DNSBL
+POE::Component::Client::Feed
+POE::Component::Client::FTP
+POE::Component::Client::Halo
+POE::Component::Client::HTTP
+POE::Component::Client::HTTP::Request
+POE::Component::Client::HTTP::RequestFactory
+POE::Component::Client::HTTPDeferred
+POE::Component::Client::HTTPDeferred::Deferred
+POE::Component::Client::Icecast
+POE::Component::Client::Ident
+POE::Component::Client::Ident::Agent
+POE::Component::Client::Keepalive
+POE::Component::Client::LDAP
+POE::Component::Client::Lingr
+POE::Component::Client::MogileFS
+POE::Component::Client::MPD
+POE::Component::Client::MPD::Collection
+POE::Component::Client::MPD::Commands
+POE::Component::Client::MPD::Connection
+POE::Component::Client::MPD::Message
+POE::Component::Client::MPD::Playlist
+POE::Component::Client::MPD::Test
+POE::Component::Client::MPD::Types
+POE::Component::Client::MSN
+POE::Component::Client::MSN::Command
+POE::Component::Client::NNTP
+POE::Component::Client::NNTP::Constants
+POE::Component::Client::NNTP::Tail
+POE::Component::Client::NRPE
+POE::Component::Client::NSCA
+POE::Component::Client::NTP
+POE::Component::Client::opentick
+POE::Component::Client::opentick::Constants
+POE::Component::Client::opentick::Error
+POE::Component::Client::opentick::FAQ
+POE::Component::Client::opentick::OTClient
+POE::Component::Client::opentick::Output
+POE::Component::Client::opentick::Protocol
+POE::Component::Client::opentick::ProtocolMsg
+POE::Component::Client::opentick::Record
+POE::Component::Client::opentick::Socket
+POE::Component::Client::opentick::Util
+POE::Component::Client::Pastebot
+POE::Component::Client::Ping
+POE::Component::Client::POP3
+POE::Component::Client::RADIUS
+POE::Component::Client::Rcon
+POE::Component::Client::REST
+POE::Component::Client::REST::JSON
+POE::Component::Client::SMTP
+POE::Component::Client::SOAP
+POE::Component::Client::SOCKS
+POE::Component::Client::Stomp
+POE::Component::Client::Stomp::Utils
+POE::Component::Client::TCP
+POE::Component::Client::TCPMulti
+POE::Component::Client::Telnet
+POE::Component::Client::Traceroute
+POE::Component::Client::Twitter
+POE::Component::Client::UserAgent
+POE::Component::Client::Whois
+POE::Component::Client::Whois::IPBlks
+POE::Component::Client::Whois::Smart
+POE::Component::Client::Whois::Smart::Cache
+POE::Component::Client::Whois::Smart::Data
+POE::Component::Client::Whois::Smart::DirectI
+POE::Component::Client::Whois::Smart::NetWhoisRaw
+POE::Component::Client::Whois::Smart::NetWhoisRawHTTP
+POE::Component::Client::Whois::TLDList
+POE::Component::Connection::Keepalive
+POE::Component::ControlPort
+POE::Component::ControlPort::Command
+POE::Component::ControlPort::DefaultCommands
+POE::Component::CPAN::LinksToDocs::No404s
+POE::Component::CPAN::LinksToDocs::No404s::Remember
+POE::Component::CPAN::Mirror::Multiplexer
+POE::Component::CPAN::Reporter
+POE::Component::CPAN::SQLite::Info
+POE::Component::CPAN::YACSmoke
+POE::Component::CPANIDX
+POE::Component::CPANPLUS::YACSmoke
+POE::Component::Cron
+POE::Component::CSS::Minifier
+POE::Component::Curses
+POE::Component::Curses::MainLoop
+POE::Component::Daemon
+POE::Component::Daemon::Scoreboard
+POE::Component::Daemon::Win32
+POE::Component::Data::SimplePassword
+POE::Component::DBIAgent
+POE::Component::DBIAgent::Helper
+POE::Component::DBIAgent::Queue
+POE::Component::DebugShell
+POE::Component::DebugShell::Jabber
+POE::Component::DHCP::Monitor
+POE::Component::DirWatch
+POE::Component::DirWatch::Modified
+POE::Component::DirWatch::New
+POE::Component::DirWatch::Object
+POE::Component::DirWatch::Object::NewFile
+POE::Component::DirWatch::Object::Touched
+POE::Component::DirWatch::Object::Untouched
+POE::Component::DirWatch::Role::AIO
+POE::Component::DirWatch::Role::Signatures
+POE::Component::DirWatch::Unmodified
+POE::Component::Drizzle
+POE::Component::EasyDBI
+POE::Component::EasyDBI::SubProcess
+POE::Component::Enc::Flac
+POE::Component::Enc::Mp3
+POE::Component::Enc::Ogg
+POE::Component::FastCGI
+POE::Component::FastCGI::Request
+POE::Component::FastCGI::Response
+POE::Component::FastCGI::Stream
+POE::Component::FeedAggregator
+POE::Component::FeedAggregator::Feed
+POE::Component::Fuse
+POE::Component::Fuse::AsyncFsV
+POE::Component::Fuse::myFuse
+POE::Component::Fuse::SubProcess
+POE::Component::Gearman::Client
+POE::Component::Gearman::Client::Connection
+POE::Component::Generic
+POE::Component::Generic::Child
+POE::Component::Generic::Net::SSH2
+POE::Component::Generic::Object
+POE::Component::Github
+POE::Component::Github::Request::Commits
+POE::Component::Github::Request::Issues
+POE::Component::Github::Request::Network
+POE::Component::Github::Request::Object
+POE::Component::Github::Request::Repositories
+POE::Component::Github::Request::Role
+POE::Component::Github::Request::Users
+POE::Component::Growl
+POE::Component::Hailo
+POE::Component::IKC
+POE::Component::IKC::Channel
+POE::Component::IKC::Client
+POE::Component::IKC::ClientLite
+POE::Component::IKC::Freezer
+POE::Component::IKC::LocalKernel
+POE::Component::IKC::Proxy
+POE::Component::IKC::Responder
+POE::Component::IKC::Server
+POE::Component::IKC::Specifier
+POE::Component::IRC
+POE::Component::IRC::Common
+POE::Component::IRC::Constants
+POE::Component::IRC::Object
+POE::Component::IRC::Plugin
+POE::Component::IRC::Plugin::AlarmClock
+POE::Component::IRC::Plugin::AntiSpamMailTo
+POE::Component::IRC::Plugin::AutoJoin
+POE::Component::IRC::Plugin::BasePoCoWrap
+POE::Component::IRC::Plugin::BaseWrap
+POE::Component::IRC::Plugin::Blowfish
+POE::Component::IRC::Plugin::Bollocks
+POE::Component::IRC::Plugin::BotAddressed
+POE::Component::IRC::Plugin::BotCommand
+POE::Component::IRC::Plugin::BotTraffic
+POE::Component::IRC::Plugin::BrowserSupport
+POE::Component::IRC::Plugin::CoinFlip
+POE::Component::IRC::Plugin::Connector
+POE::Component::IRC::Plugin::Console
+POE::Component::IRC::Plugin::CoreList
+POE::Component::IRC::Plugin::CPAN::Info
+POE::Component::IRC::Plugin::CPAN::LinksToDocs
+POE::Component::IRC::Plugin::CPAN::LinksToDocs::No404s
+POE::Component::IRC::Plugin::CPAN::LinksToDocs::No404s::Remember
+POE::Component::IRC::Plugin::CSS::Minifier
+POE::Component::IRC::Plugin::CSS::PropertyInfo
+POE::Component::IRC::Plugin::CSS::PropertyInfo::Data
+POE::Component::IRC::Plugin::CSS::SelectorTools
+POE::Component::IRC::Plugin::CTCP
+POE::Component::IRC::Plugin::CycleEmpty
+POE::Component::IRC::Plugin::Data::SimplePassword
+POE::Component::IRC::Plugin::DCC
+POE::Component::IRC::Plugin::Eval
+POE::Component::IRC::Plugin::FollowTail
+POE::Component::IRC::Plugin::Fortune
+POE::Component::IRC::Plugin::FTP::EasyUpload
+POE::Component::IRC::Plugin::Google::Calculator
+POE::Component::IRC::Plugin::Google::PageRank
+POE::Component::IRC::Plugin::Hailo
+POE::Component::IRC::Plugin::HTML::AttributeInfo
+POE::Component::IRC::Plugin::HTML::AttributeInfo::Data
+POE::Component::IRC::Plugin::HTML::ElementInfo
+POE::Component::IRC::Plugin::ImageMirror
+POE::Component::IRC::Plugin::ISupport
+POE::Component::IRC::Plugin::JavaScript::Minifier
+POE::Component::IRC::Plugin::Logger
+POE::Component::IRC::Plugin::Magic8Ball
+POE::Component::IRC::Plugin::MegaHAL
+POE::Component::IRC::Plugin::MultiProxy
+POE::Component::IRC::Plugin::MultiProxy::Away
+POE::Component::IRC::Plugin::MultiProxy::ClientManager
+POE::Component::IRC::Plugin::MultiProxy::Recall
+POE::Component::IRC::Plugin::MultiProxy::State
+POE::Component::IRC::Plugin::NickReclaim
+POE::Component::IRC::Plugin::NickServID
+POE::Component::IRC::Plugin::OutputToPastebin
+POE::Component::IRC::Plugin::PAUSE::RecentUploads
+POE::Component::IRC::Plugin::PlugMan
+POE::Component::IRC::Plugin::POE::Knee
+POE::Component::IRC::Plugin::Proxy
+POE::Component::IRC::Plugin::QueryDNS
+POE::Component::IRC::Plugin::QueryDNSBL
+POE::Component::IRC::Plugin::Role
+POE::Component::IRC::Plugin::RSS::Headlines
+POE::Component::IRC::Plugin::RTorrentStatus
+POE::Component::IRC::Plugin::SigFail
+POE::Component::IRC::Plugin::Syntax::Highlight::CSS
+POE::Component::IRC::Plugin::Syntax::Highlight::HTML
+POE::Component::IRC::Plugin::Thanks
+POE::Component::IRC::Plugin::Trac::RSS
+POE::Component::IRC::Plugin::Unicode::UCD
+POE::Component::IRC::Plugin::URI::Find
+POE::Component::IRC::Plugin::Validator::CSS
+POE::Component::IRC::Plugin::Validator::HTML
+POE::Component::IRC::Plugin::Whois
+POE::Component::IRC::Plugin::WWW::Alexa::TrafficRank
+POE::Component::IRC::Plugin::WWW::Cache::Google
+POE::Component::IRC::Plugin::WWW::CPAN
+POE::Component::IRC::Plugin::WWW::CPANRatings::RSS
+POE::Component::IRC::Plugin::WWW::DoctypeGrabber
+POE::Component::IRC::Plugin::WWW::GetPageTitle
+POE::Component::IRC::Plugin::WWW::Google::Time
+POE::Component::IRC::Plugin::WWW::HTMLTagAttributeCounter
+POE::Component::IRC::Plugin::WWW::LimerickDB
+POE::Component::IRC::Plugin::WWW::Lipsum
+POE::Component::IRC::Plugin::WWW::OhNoRobotCom::Search
+POE::Component::IRC::Plugin::WWW::XKCD::AsText
+POE::Component::IRC::Plugin::YouAreDoingItWrong
+POE::Component::IRC::Plugin::YouTube::MovieFindStore
+POE::Component::IRC::Qnet
+POE::Component::IRC::Qnet::State
+POE::Component::IRC::Service
+POE::Component::IRC::Service::Hybrid
+POE::Component::IRC::Service::P10
+POE::Component::IRC::State
+POE::Component::Jabber
+POE::Component::Jabber::Events
+POE::Component::Jabber::J14
+POE::Component::Jabber::J2
+POE::Component::Jabber::Legacy
+POE::Component::Jabber::Protocol
+POE::Component::Jabber::ProtocolFactory
+POE::Component::Jabber::XMPP
+POE::Component::JavaScript::Minifier
+POE::Component::JobQueue
+POE::Component::LaDBI
+POE::Component::LaDBI::Commands
+POE::Component::LaDBI::Engine
+POE::Component::LaDBI::Request
+POE::Component::LaDBI::Response
+POE::Component::Lightspeed
+POE::Component::Lightspeed::Authentication
+POE::Component::Lightspeed::Client
+POE::Component::Lightspeed::Constants
+POE::Component::Lightspeed::Hack::Events
+POE::Component::Lightspeed::Hack::Kernel
+POE::Component::Lightspeed::Hack::Session
+POE::Component::Lightspeed::Introspection
+POE::Component::Lightspeed::Router
+POE::Component::Lightspeed::Server
+POE::Component::Lingua::Translate
+POE::Component::Log4perl
+POE::Component::Logger
+POE::Component::MDBA
+POE::Component::MDBA::Backend
+POE::Component::MDBA::Backend::DBI
+POE::Component::MDBA::Backend::DBIC
+POE::Component::MessageQueue
+POE::Component::MessageQueue::Client
+POE::Component::MessageQueue::Destination
+POE::Component::MessageQueue::IDGenerator
+POE::Component::MessageQueue::IDGenerator::SimpleInt
+POE::Component::MessageQueue::IDGenerator::UUID
+POE::Component::MessageQueue::Logger
+POE::Component::MessageQueue::Message
+POE::Component::MessageQueue::Queue
+POE::Component::MessageQueue::Statistics
+POE::Component::MessageQueue::Statistics::Publish
+POE::Component::MessageQueue::Statistics::Publish::YAML
+POE::Component::MessageQueue::Storage
+POE::Component::MessageQueue::Storage::BigMemory
+POE::Component::MessageQueue::Storage::Complex
+POE::Component::MessageQueue::Storage::DBI
+POE::Component::MessageQueue::Storage::Default
+POE::Component::MessageQueue::Storage::Double
+POE::Component::MessageQueue::Storage::EasyDBI
+POE::Component::MessageQueue::Storage::FileSystem
+POE::Component::MessageQueue::Storage::Generic
+POE::Component::MessageQueue::Storage::Generic::Base
+POE::Component::MessageQueue::Storage::Generic::DBI
+POE::Component::MessageQueue::Storage::Memory
+POE::Component::MessageQueue::Storage::Remote
+POE::Component::MessageQueue::Storage::Remote::Server
+POE::Component::MessageQueue::Storage::Structure::DLList
+POE::Component::MessageQueue::Storage::Structure::DLList::Cell
+POE::Component::MessageQueue::Storage::Throttled
+POE::Component::MessageQueue::Subscription
+POE::Component::MessageQueue::Topic
+POE::Component::Metabase::Client::Submit
+POE::Component::Metabase::Relay::Server
+POE::Component::Metabase::Relay::Server::Queue
+POE::Component::MXML
+POE::Component::Net::FTP
+POE::Component::Net::LastFM::Submission
+POE::Component::NomadJukebox
+POE::Component::NomadJukebox::Device
+POE::Component::NonBlockingWrapper::Base
+POE::Component::Omegle
+POE::Component::OpenSSH
+POE::Component::OSCAR
+POE::Component::Pcap
+POE::Component::Player::Mpg123
+POE::Component::Player::Musicus
+POE::Component::Player::Slideshow
+POE::Component::Player::Xmms
+POE::Component::Pluggable
+POE::Component::Pluggable::Constants
+POE::Component::Pluggable::Pipeline
+POE::Component::PluginManager
+POE::Component::Pool::DBI
+POE::Component::Pool::Thread
+POE::Component::PreforkDispatch
+POE::Component::Proxy::SOCKS
+POE::Component::Proxy::TCP
+POE::Component::Proxy::TCP::PoeDebug
+POE::Component::Q4M
+POE::Component::RemoteTail
+POE::Component::RemoteTail::CustomEngine::NetSSHPerl
+POE::Component::RemoteTail::Job
+POE::Component::Rendezvous::Publish
+POE::Component::ResourcePool
+POE::Component::ResourcePool::Request
+POE::Component::ResourcePool::Resource
+POE::Component::ResourcePool::Resource::Collection
+POE::Component::ResourcePool::Resource::Semaphore
+POE::Component::ResourcePool::Resource::TokenBucket
+POE::Component::ResourcePool::Resource::TryList
+POE::Component::RSS
+POE::Component::RSSAggregator
+POE::Component::SASLAuthd
+POE::Component::Schedule
+POE::Component::Server::AsyncEndpoint
+POE::Component::Server::AsyncEndpoint::ChannelAdapter
+POE::Component::Server::AsyncEndpoint::ChannelAdapter::Config
+POE::Component::Server::AsyncEndpoint::ChannelAdapter::SOAP
+POE::Component::Server::AsyncEndpoint::ChannelAdapter::Stomp
+POE::Component::Server::AsyncEndpoint::Config
+POE::Component::Server::AsyncEndpoint::Endpoints
+POE::Component::Server::Bayeux
+POE::Component::Server::Bayeux::Client
+POE::Component::Server::Bayeux::Message
+POE::Component::Server::Bayeux::Message::Factory
+POE::Component::Server::Bayeux::Message::Invalid
+POE::Component::Server::Bayeux::Message::Meta
+POE::Component::Server::Bayeux::Message::Publish
+POE::Component::Server::Bayeux::Message::Service
+POE::Component::Server::Bayeux::Request
+POE::Component::Server::Bayeux::Utilities
+POE::Component::Server::BigBrother
+POE::Component::Server::Chargen
+POE::Component::Server::Daytime
+POE::Component::Server::Discard
+POE::Component::Server::DNS
+POE::Component::Server::Echo
+POE::Component::Server::FTP
+POE::Component::Server::FTP::ControlFilter
+POE::Component::Server::FTP::ControlSession
+POE::Component::Server::FTP::DataSession
+POE::Component::Server::HTTP
+POE::Component::Server::HTTP::Connection
+POE::Component::Server::HTTP::KeepAlive
+POE::Component::Server::HTTP::KeepAlive::SimpleHTTP
+POE::Component::Server::HTTP::Request
+POE::Component::Server::HTTP::Response
+POE::Component::Server::HTTPServer
+POE::Component::Server::HTTPServer::BasicAuthenHandler
+POE::Component::Server::HTTPServer::Handler
+POE::Component::Server::HTTPServer::NotFoundHandler
+POE::Component::Server::HTTPServer::ParameterParseHandler
+POE::Component::Server::HTTPServer::StaticHandler
+POE::Component::Server::HTTPServer::TemplateHandler
+POE::Component::Server::Ident
+POE::Component::Server::Inet
+POE::Component::Server::IRC
+POE::Component::Server::IRC::Backend
+POE::Component::Server::IRC::Common
+POE::Component::Server::IRC::OperServ
+POE::Component::Server::IRC::Pipeline
+POE::Component::Server::IRC::Plugin
+POE::Component::Server::IRC::Test::Plugin
+POE::Component::Server::JSONRPC
+POE::Component::Server::MySQL
+POE::Component::Server::NNTP
+POE::Component::Server::NNTP::Constants
+POE::Component::Server::NRPE
+POE::Component::Server::NRPE::Constants
+POE::Component::Server::NSCA
+POE::Component::Server::POP3
+POE::Component::Server::POP3::Constants
+POE::Component::Server::Postfix
+POE::Component::Server::Postfix::TCP
+POE::Component::Server::Postfix::UNIX
+POE::Component::Server::PreforkTCP
+POE::Component::Server::PSGI
+POE::Component::Server::Qotd
+POE::Component::Server::RADIUS
+POE::Component::Server::SimpleContent
+POE::Component::Server::SimpleHTTP
+POE::Component::Server::SimpleHTTP::Connection
+POE::Component::Server::SimpleHTTP::PreFork
+POE::Component::Server::SimpleHTTP::Response
+POE::Component::Server::SimpleHTTP::State
+POE::Component::Server::SimpleSMTP
+POE::Component::Server::SimpleSMTP::Constants
+POE::Component::Server::SimpleXMLRPC
+POE::Component::Server::SMTP
+POE::Component::Server::SOAP
+POE::Component::Server::Stomp
+POE::Component::Server::Syslog
+POE::Component::Server::Syslog::TCP
+POE::Component::Server::Syslog::UDP
+POE::Component::Server::TacacsPlus
+POE::Component::Server::TCP
+POE::Component::Server::Time
+POE::Component::Server::Twirc
+POE::Component::Server::Twirc::LogAppender
+POE::Component::Server::Twirc::State
+POE::Component::Server::XMLRPC
+POE::Component::SimpleDBI
+POE::Component::SimpleDBI::SubProcess
+POE::Component::SimpleLog
+POE::Component::SmokeBox
+POE::Component::SmokeBox::Backend
+POE::Component::SmokeBox::Backend::Base
+POE::Component::SmokeBox::Backend::CPAN::Reporter
+POE::Component::SmokeBox::Backend::CPAN::Reporter::Smoker
+POE::Component::SmokeBox::Backend::CPAN::YACSmoke
+POE::Component::SmokeBox::Backend::CPANPLUS::YACSmoke
+POE::Component::SmokeBox::Backend::SmokeInABox
+POE::Component::SmokeBox::Backend::Test::Excess
+POE::Component::SmokeBox::Backend::Test::Idle
+POE::Component::SmokeBox::Backend::Test::Loop
+POE::Component::SmokeBox::Backend::Test::SmokeBox::Mini
+POE::Component::SmokeBox::Backend::Test::Stress
+POE::Component::SmokeBox::Dists
+POE::Component::SmokeBox::Job
+POE::Component::SmokeBox::JobQueue
+POE::Component::SmokeBox::Recent
+POE::Component::SmokeBox::Recent::FTP
+POE::Component::SmokeBox::Recent::HTTP
+POE::Component::SmokeBox::Result
+POE::Component::SmokeBox::Smoker
+POE::Component::SmokeBox::Uploads::CPAN::Mini
+POE::Component::SmokeBox::Uploads::NNTP
+POE::Component::SmokeBox::Uploads::RSS
+POE::Component::SmokeBox::Uploads::Rsync
+POE::Component::SNMP
+POE::Component::SNMP::Dispatcher
+POE::Component::SNMP::Session
+POE::Component::SNMP::Session::Dispatcher
+POE::Component::Spread
+POE::Component::SpreadClient
+POE::Component::SSLify
+POE::Component::SSLify::ClientHandle
+POE::Component::SSLify::NonBlock
+POE::Component::SSLify::NonBlock::ServerHandle
+POE::Component::SSLify::ServerHandle
+POE::Component::StackedProcessor
+POE::Component::SubWrapper
+POE::Component::Supervisor
+POE::Component::Supervisor::Handle
+POE::Component::Supervisor::Handle::Interface
+POE::Component::Supervisor::Handle::Proc
+POE::Component::Supervisor::Handle::Session
+POE::Component::Supervisor::Interface
+POE::Component::Supervisor::LogDispatch
+POE::Component::Supervisor::Supervised
+POE::Component::Supervisor::Supervised::Interface
+POE::Component::Supervisor::Supervised::Proc
+POE::Component::Supervisor::Supervised::Session
+POE::Component::Syntax::Highlight::CSS
+POE::Component::Syntax::Highlight::HTML
+POE::Component::Telephony::CTPort
+POE::Component::TFTPd
+POE::Component::TFTPd::Client
+POE::Component::Tie
+POE::Component::TSTP
+POE::Component::UserBase
+POE::Component::WakeOnLAN
+POE::Component::WebService::HtmlKitCom::FavIconFromImage
+POE::Component::WebService::Validator::CSS::W3C
+POE::Component::WebService::Validator::HTML::W3C
+POE::Component::Win32::ChangeNotify
+POE::Component::Win32::EventLog
+POE::Component::Win32::Service
+POE::Component::WWW::Alexa::TrafficRank
+POE::Component::WWW::Cache::Google
+POE::Component::WWW::CPAN
+POE::Component::WWW::CPANRatings::RSS
+POE::Component::WWW::DoctypeGrabber
+POE::Component::WWW::DoingItWrongCom::RandImage
+POE::Component::WWW::GetPageTitle
+POE::Component::WWW::Google::Calculator
+POE::Component::WWW::Google::PageRank
+POE::Component::WWW::Google::Time
+POE::Component::WWW::HTMLTagAttributeCounter
+POE::Component::WWW::LimerickDB
+POE::Component::WWW::Lipsum
+POE::Component::WWW::OhNoRobotCom::Search
+POE::Component::WWW::Pastebin::Bot::Pastebot::Create
+POE::Component::WWW::Pastebin::Many::Retrieve
+POE::Component::WWW::PAUSE::CleanUpHomeDir
+POE::Component::WWW::PAUSE::RecentUploads
+POE::Component::WWW::PAUSE::RecentUploads::Tail
+POE::Component::WWW::Search::Mininova
+POE::Component::WWW::Shorten
+POE::Component::WWW::WebDevout::BrowserSupportInfo
+POE::Component::WWW::XKCD::AsText
+POE::Component::WWW::YouTube::VideoURI
+POE::Component::XUL
+POE::Component::YahooMessenger
+POE::Component::YahooMessenger::Constants
+POE::Component::YahooMessenger::Event
+POE::Component::YubiAuth
+POE::Declarative
+POE::Declarative::Mixin
+POE::Declare
+POE::Declare::Meta
+POE::Declare::Meta::Attribute
+POE::Declare::Meta::Event
+POE::Declare::Meta::Internal
+POE::Declare::Meta::Message
+POE::Declare::Meta::Param
+POE::Declare::Meta::Slot
+POE::Declare::Meta::Timeout
+POE::Declare::Object
+POE::Devel::Benchmarker
+POE::Devel::Benchmarker::GetInstalledLoops
+POE::Devel::Benchmarker::GetPOEdists
+POE::Devel::Benchmarker::Imager
+POE::Devel::Benchmarker::Imager::BasicStatistics
+POE::Devel::Benchmarker::SubProcess
+POE::Devel::Benchmarker::Utils
+POE::Devel::ProcAlike
+POE::Devel::ProcAlike::ModuleInfo
+POE::Devel::ProcAlike::PerlInfo
+POE::Devel::ProcAlike::POEInfo
+POE::Devel::Profiler
+POE::Devel::Profiler::Parser
+POE::Devel::Profiler::Visualizer::BasicGraphViz
+POE::Devel::Profiler::Visualizer::BasicSummary
+POE::Devel::Top
+POE::Driver
+POE::Driver::Spread
+POE::Driver::SpreadClient
+POE::Driver::SysRW
+POE::Event::Message
+POE::Event::Message::Header
+POE::Event::Message::UniqueID
+POE::Filter
+POE::Filter::ASN1
+POE::Filter::Asterisk::Manager
+POE::Filter::Audio::Mad::Stdio
+POE::Filter::BigBrother
+POE::Filter::Block
+POE::Filter::Bzip2
+POE::Filter::CSV
+POE::Filter::CSV_XS
+POE::Filter::CTCP::Hybrid
+POE::Filter::CTCP::P10
+POE::Filter::DHCPd::Lease
+POE::Filter::ErrorProof
+POE::Filter::FastCGI
+POE::Filter::Finger
+POE::Filter::FSSocket
+POE::Filter::Grep
+POE::Filter::Hessian
+POE::Filter::HTTP::Parser
+POE::Filter::HTTPChunk
+POE::Filter::HTTPD
+POE::Filter::HTTPD::Chunked
+POE::Filter::HTTPHead
+POE::Filter::IASLog
+POE::Filter::Ident
+POE::Filter::IRC
+POE::Filter::IRC::Compat
+POE::Filter::IRC::Hybrid
+POE::Filter::IRC::P10
+POE::Filter::IRCD
+POE::Filter::JSON
+POE::Filter::JSON::Incr
+POE::Filter::JSON::Incr::Error
+POE::Filter::KennySpeak
+POE::Filter::Line
+POE::Filter::Log::IPTables
+POE::Filter::Log::Procmail
+POE::Filter::LOLCAT
+POE::Filter::Ls
+POE::Filter::LZF
+POE::Filter::LZO
+POE::Filter::LZW
+POE::Filter::LZW::Progressive
+POE::Filter::Map
+POE::Filter::MSN
+POE::Filter::ParseWords
+POE::Filter::Postfix
+POE::Filter::Postfix::Base64
+POE::Filter::Postfix::Null
+POE::Filter::Postfix::Plain
+POE::Filter::PPPHDLC
+POE::Filter::RecDescent
+POE::Filter::RecordBlock
+POE::Filter::Reference
+POE::Filter::Regexp
+POE::Filter::SimpleHTTP
+POE::Filter::SimpleHTTP::Error
+POE::Filter::SimpleHTTP::Regex
+POE::Filter::Slim::CLI
+POE::Filter::SMTP
+POE::Filter::Snort
+POE::Filter::Spread
+POE::Filter::SpreadClient
+POE::Filter::SSL
+POE::Filter::Stackable
+POE::Filter::Stomp
+POE::Filter::Stream
+POE::Filter::Syslog
+POE::Filter::TacacsPlus
+POE::Filter::Transparent::SMTP
+POE::Filter::XML
+POE::Filter::XML::Handler
+POE::Filter::XML::Node
+POE::Filter::XML::NS
+POE::Filter::XML::RPC
+POE::Filter::XML::RPC::Fault
+POE::Filter::XML::RPC::Request
+POE::Filter::XML::RPC::Response
+POE::Filter::XML::RPC::Value
+POE::Filter::XML::Utils
+POE::Filter::YahooMessengerPacket
+POE::Filter::Zlib
+POE::Filter::Zlib::Stream
+POE::Framework::MIDI
+POE::Framework::MIDI::Bar
+POE::Framework::MIDI::Conductor
+POE::Framework::MIDI::Interval
+POE::Framework::MIDI::Key
+POE::Framework::MIDI::Musician
+POE::Framework::MIDI::Musician::Generic
+POE::Framework::MIDI::Musician::Test
+POE::Framework::MIDI::Noop
+POE::Framework::MIDI::Note
+POE::Framework::MIDI::Phrase
+POE::Framework::MIDI::POEConductor
+POE::Framework::MIDI::POEMusician
+POE::Framework::MIDI::Rest
+POE::Framework::MIDI::Rule
+POE::Framework::MIDI::Rule::Contour
+POE::Framework::MIDI::Rule::MinimumNoteCount
+POE::Framework::MIDI::Rule::Notes
+POE::Framework::MIDI::Rule::Utility
+POE::Framework::MIDI::Ruleset
+POE::Framework::MIDI::Utility
+POE::Kernel
+POE::Loop
+POE::Loop::EV
+POE::Loop::Event
+POE::Loop::Glib
+POE::Loop::Gtk
+POE::Loop::IO_Poll
+POE::Loop::Kqueue
+POE::Loop::PerlSignals
+POE::Loop::Prima
+POE::Loop::Select
+POE::Loop::Tk
+POE::Loop::TkActiveState
+POE::Loop::TkCommon
+POE::Loop::Wx
+POE::Net::SNMP
+POE::NFA
+POE::Pipe
+POE::Pipe::OneWay
+POE::Pipe::TwoWay
+POE::Queue
+POE::Queue::Array
+POE::Quickie
+POE::Request
+POE::Request::Emit
+POE::Request::Recall
+POE::Request::Return
+POE::Request::Upward
+POE::Resource
+POE::Resource::Aliases
+POE::Resource::Events
+POE::Resource::Extrefs
+POE::Resource::FileHandles
+POE::Resource::Sessions
+POE::Resource::SIDs
+POE::Resource::Signals
+POE::Resource::Statistics
+POE::Resources
+POE::Session
+POE::Session::Attribute
+POE::Session::AttributeBased
+POE::Session::Cascading
+POE::Session::GladeXML2
+POE::Session::Irssi
+POE::Session::MessageBased
+POE::Session::MultiDispatch
+POE::Session::Multiplex
+POE::Session::PlainCall
+POE::Session::YieldCC
+POE::Stage
+POE::Stage::App
+POE::Stage::Echoer
+POE::Stage::Receiver
+POE::Stage::Resolver
+POE::Stage::Ticker
+POE::strict
+POE::Sugar::Args
+POE::Test::DondeEstan
+POE::Test::Helpers
+POE::Test::Helpers::API
+POE::Test::Helpers::MooseRole
+POE::Test::Loops
+POE::TIKC
+POE::Watcher
+POE::Watcher::Delay
+POE::Watcher::Input
+POE::Watcher::Wheel
+POE::Watcher::Wheel::ReadWrite
+POE::Watcher::Wheel::Run
+POE::Watcher::Wheel::SocketFactory
+POE::Wheel
+POE::Wheel::Audio::Mad
+POE::Wheel::Curses
+POE::Wheel::FollowTail
+POE::Wheel::GnuPG
+POE::Wheel::ListenAccept
+POE::Wheel::Null
+POE::Wheel::ReadLine
+POE::Wheel::ReadWrite
+POE::Wheel::Run
+POE::Wheel::Run::Win32
+POE::Wheel::SocketFactory
+POE::Wheel::UDP
+POE::Wheel::VimColor
+POE::XS::Loop::EPoll
+POE::XS::Loop::Poll
+POE::XS::Queue::Array
+POE::XUL::Application
+POE::XUL::CDATA
+POE::XUL::ChangeManager
+POE::XUL::Constants
+POE::XUL::Controler
+POE::XUL::Encode
+POE::XUL::Event
+POE::XUL::EventManager
+POE::XUL::Javascript
+POE::XUL::Logging
+POE::XUL::Node
+POE::XUL::RDF
+POE::XUL::Request
+POE::XUL::Session
+POE::XUL::SessionManager
+POE::XUL::State
+POE::XUL::Style
+POE::XUL::TextNode
+POE::XUL::TWindow
+POE::XUL::Window
+POEBeacon
+POEIKC
+POEIKC::Client
+POEIKC::Daemon
+POEIKC::Daemon::P2P
+POEIKC::Daemon::Utility
+POEIKC::Plugin::GlobalQueue
+POEIKC::Plugin::GlobalQueue::ClientLite
+POEIKC::Plugin::GlobalQueue::Message
+POEST::Config
+POEST::Config::General
+POEST::Plugin
+POEST::Plugin::Check::Hostname
+POEST::Plugin::General
+POEST::Server
+POEx::ProxySession
+POEx::ProxySession::Client
+POEx::ProxySession::MessageSender
+POEx::ProxySession::Proxy
+POEx::ProxySession::Server
+POEx::ProxySession::Types
+POEx::PubSub
+POEx::PubSub::Event
+POEx::PubSub::Types
+POEx::Role::Event
+POEx::Role::ProxyEvent
+POEx::Role::PSGIServer
+POEx::Role::PSGIServer::ProxyWriter
+POEx::Role::PSGIServer::Streamer
+POEx::Role::SessionInstantiation
+POEx::Role::SessionInstantiation::Meta::POEState
+POEx::Role::SessionInstantiation::Meta::Session::Events
+POEx::Role::SessionInstantiation::Meta::Session::Implementation
+POEx::Role::SessionInstantiation::Meta::Session::Magic
+POEx::Role::SessionInstantiation::Meta::Session::Sugar
+POEx::Role::Streaming
+POEx::Role::TCPClient
+POEx::Role::TCPServer
+POEx::Trait::DeferredRegistration
+POEx::Trait::ExtraInitialization
+POEx::Types
+POEx::Types::PSGIServer
+POEx::URI
+POEx::WorkerPool
+POEx::WorkerPool::Error
+POEx::WorkerPool::Error::EnqueueError
+POEx::WorkerPool::Error::JobError
+POEx::WorkerPool::Error::NoAvailableWorkers
+POEx::WorkerPool::Error::StartError
+POEx::WorkerPool::Role::Job
+POEx::WorkerPool::Role::WorkerPool
+POEx::WorkerPool::Role::WorkerPool::OpenEndedWorker
+POEx::WorkerPool::Role::WorkerPool::Worker
+POEx::WorkerPool::Role::WorkerPool::Worker::Guts
+POEx::WorkerPool::Role::WorkerPool::Worker::GutsLoader
+POEx::WorkerPool::Types
+POEx::WorkerPool::Worker
+POEx::WorkerPool::Worker::Guts
+POEx::WorkerPool::Worker::GutsLoader
+POEx::WorkerPool::WorkerEvents
+Swarmage::Worker::POE
+package Acme::CPANAuthors::POE;
+
+#ABSTRACT: We are CPAN Authors of POE
+
+use strict;
+use warnings;
+
+use Acme::CPANAuthors::Register (
+  AAR => q[Alessandro Ranellucci],
+  ABERGMAN => q[Artur Bergman],
+  ACHEN => q[Andrew A. Chen],
+  ADAMK => q[Adam Kennedy],
+  AGRUNDMA => q[Andy Grundman],
+  AHOYING => q[Andrew Hoying],
+  AIMASS => q[Alejandro Imass],
+  ANDYPUR => q[Andrew V. Purshottam],
+  APOCAL => q[Apocalypse],
+  ARCANEZ => q[Justin Hunter],
+  BINGOS => q[Chris Williams],
+  BSMITH => q[Benjamin Smith],
+  BTROTT => q[Benjamin Trott],
+  CATONE => q[Denis Pokataev],
+  CCOBB => q[Chris Cobb],
+  CFEDDE => q[Chris Fedde],
+  CWEST => q[Casey West],
+  DAGOLDEN => q[David Golden],
+  DAMS => q[Damien Krotkine],
+  DAVINCHI => q[Pavel Boldin],
+  DAZJORZ => q[Sjors Gielen],
+  DMAKI => q[Daisuke Maki],
+  DMCC => q[Dan McCormick],
+  DOLMEN => q[Olivier 'dolmen' Mengue],
+  DSNOPEK => q[David Snopek],
+  ECALDER => q[Erick Calder],
+  ERIAM => q[Eriam Schaffter],
+  EWATERS => q[Eric Waters],
+  FLETCH => q[Mike Fletcher],
+  FRODWITH => q[Paul Driver],
+  GDSL => q[Sergey Skvortsov],
+  GETTY => q[Torsten Raudssus],
+  GRAYKOT => q[Sergey Kotenko],
+  GREGFAST => q[Greg Fast],
+  GRODITI => q[Guillermo Roditi],
+  GWYN => q[Philip Gwyn],
+  HACHI => q[Jonathan Steinert],
+  HANENKAMP => q[Andrew Sterling Hanenkamp],
+  HDP => q[Hans Dieter Pearcey],
+  HEYTRAV => q[William Travis Holton],
+  HINRIK => q[Hinrik Orn Sigurdsson],
+  INFIDEL => q[Jason McManus],
+  JBISBEE => q[Jeff Bisbee],
+  JGOFF => q[Jeff Goff],
+  JHTHORSEN => q[Jan Henning Thorsen],
+  JKUTEJ => q[Jozef Kutej],
+  JMERELO => q[J. J. Merelo Guervos],
+  JQUELIN => q[Jerome Quelin],
+  JSN => q[dmitry kim],
+  KARASIK => q[Dmitry Karasik],
+  KESTEB => q[Kevin L. Esteb],
+  KIRILLM => q[Kirill Miazine],
+  KIXX => q[Christian-Rolf Gruen],
+  LARRYSH => q[Larry Shatzer Jr],
+  MAHEX => q[Mark A. Hershberger],
+  MARTIJN => q[Martijn van Beers],
+  MCHING => q[Michael Ching],
+  MELO => q[Pedro Melo],
+  MIKE => q[Mike Schroeder],
+  MIKI => q[Takeshi Miki],
+  MISCHKE => q[Mark McConnell],
+  MIYAGAWA => q[Tatsuhiko Miyagawa],
+  MLEHMANN => q[Marc Lehmann],
+  MMIMS => q[Marc Mims],
+  MMORGAN => q[Mark Morgan],
+  MOCK => q[MOCK],
+  MOCONNOR => q[Matthew O'Connor],
+  MRPERSON => q[Curtis Hawthorne],
+  MSCHILLI => q[Michael Schilli],
+  MSERGEANT => q[MSERGEANT],
+  NPEREZ => q[Nicholas Perez],
+  NUFFIN => q[Yuval Kogman],
+  PAULV => q[Paul Visscher],
+  PERIGRIN => q[Chris Prather],
+  PGUZIS => q[Peter Guzis],
+  PHAYLON => q[Robert 'phaylon' Sedlacek],
+  PLU => q[Johannes Plunien],
+  PRIVI => q[Markus Mueller],
+  PTINSLEY => q[Paul David Tinsley],
+  RCAPUTO => q[Rocco Caputo],
+  RCLAMP => q[Richard Clamp],
+  RDB => q[Rob Bloodgood],
+  REVMISCHA => q[Mischa Spiegelmock],
+  RJP => q[Rob Partington],
+  RKITOVER => q[Rafael Kitover],
+  SABECK => q[Scott Beck],
+  SAPER => q[Sebastien Aperghis-Tramoni],
+  SEGAN => q[Sean Egan],
+  SHARIFULN => q[Anatoly Sharifulin],
+  SMCNABB => q[Steve McNabb],
+  SPADKINS => q[Stephen Adkins],
+  STE => q[Steve James],
+  SUNGO => q[sungo],
+  SUZUKI => q[Yuji Suzuki],
+  TAG => q[Scott McCoy],
+  TBR => q[Thiago Berlitz Rondon],
+  TOKUHIROM => q[Tokuhiro Matsuno],
+  TONYC => q[Tony Cook],
+  TYPESTER => q[Daisuke Murase],
+  ULTRADM => q[George Nistorica],
+  VANY => q[Ivan B. Serezhkin],
+  WANG => q[wb@95700.net],
+  WHOPPIX => q[Jonathan Ringstad],
+  XANTUS => q[David Davis],
+  XSAWYERX => q[Sawyer X],
+  YAPPO => q[Kazuhiro Osawa],
+  YBLUSSEAU => q[Yves Blusseau],
+  ZOFFIX => q[Zoffix Znet],
+);
+
+q[We are POEsters];
+
+=pod
+
+=head1 SYNOPSIS
+
+    use Acme::CPANAuthors;
+
+    my $authors  = Acme::CPANAuthors->new('POE');
+
+    my $number   = $authors->count;
+    my @ids      = $authors->id;
+    my @distros  = $authors->distributions("BINGOS");
+    my $url      = $authors->avatar_url("BINGOS");
+    my $kwalitee = $authors->kwalitee("BINGOS");
+    my $name     = $authors->name("BINGOS");
+
+=head1 DESCRIPTION
+
+This class provides a hash of L<POE> namespace CPAN Authors' PAUSE ID and name to the L<Acme::CPANAuthors> module.
+
+It is currently statically generated information, I hope to make it dynamic in the future.
+
+=head1 CONTAINED AUTHORS
+
+  AAR => q[Alessandro Ranellucci],
+  ABERGMAN => q[Artur Bergman],
+  ACHEN => q[Andrew A. Chen],
+  ADAMK => q[Adam Kennedy],
+  AGRUNDMA => q[Andy Grundman],
+  AHOYING => q[Andrew Hoying],
+  AIMASS => q[Alejandro Imass],
+  ANDYPUR => q[Andrew V. Purshottam],
+  APOCAL => q[Apocalypse],
+  ARCANEZ => q[Justin Hunter],
+  BINGOS => q[Chris Williams],
+  BSMITH => q[Benjamin Smith],
+  BTROTT => q[Benjamin Trott],
+  CATONE => q[Denis Pokataev],
+  CCOBB => q[Chris Cobb],
+  CFEDDE => q[Chris Fedde],
+  CWEST => q[Casey West],
+  DAGOLDEN => q[David Golden],
+  DAMS => q[Damien Krotkine],
+  DAVINCHI => q[Pavel Boldin],
+  DAZJORZ => q[Sjors Gielen],
+  DMAKI => q[Daisuke Maki],
+  DMCC => q[Dan McCormick],
+  DOLMEN => q[Olivier 'dolmen' Mengue],
+  DSNOPEK => q[David Snopek],
+  ECALDER => q[Erick Calder],
+  ERIAM => q[Eriam Schaffter],
+  EWATERS => q[Eric Waters],
+  FLETCH => q[Mike Fletcher],
+  FRODWITH => q[Paul Driver],
+  GDSL => q[Sergey Skvortsov],
+  GETTY => q[Torsten Raudssus],
+  GRAYKOT => q[Sergey Kotenko],
+  GREGFAST => q[Greg Fast],
+  GRODITI => q[Guillermo Roditi],
+  GWYN => q[Philip Gwyn],
+  HACHI => q[Jonathan Steinert],
+  HANENKAMP => q[Andrew Sterling Hanenkamp],
+  HDP => q[Hans Dieter Pearcey],
+  HEYTRAV => q[William Travis Holton],
+  HINRIK => q[Hinrik Orn Sigurdsson],
+  INFIDEL => q[Jason McManus],
+  JBISBEE => q[Jeff Bisbee],
+  JGOFF => q[Jeff Goff],
+  JHTHORSEN => q[Jan Henning Thorsen],
+  JKUTEJ => q[Jozef Kutej],
+  JMERELO => q[J. J. Merelo Guervos],
+  JQUELIN => q[Jerome Quelin],
+  JSN => q[dmitry kim],
+  KARASIK => q[Dmitry Karasik],
+  KESTEB => q[Kevin L. Esteb],
+  KIRILLM => q[Kirill Miazine],
+  KIXX => q[Christian-Rolf Gruen],
+  LARRYSH => q[Larry Shatzer Jr],
+  MAHEX => q[Mark A. Hershberger],
+  MARTIJN => q[Martijn van Beers],
+  MCHING => q[Michael Ching],
+  MELO => q[Pedro Melo],
+  MIKE => q[Mike Schroeder],
+  MIKI => q[Takeshi Miki],
+  MISCHKE => q[Mark McConnell],
+  MIYAGAWA => q[Tatsuhiko Miyagawa],
+  MLEHMANN => q[Marc Lehmann],
+  MMIMS => q[Marc Mims],
+  MMORGAN => q[Mark Morgan],
+  MOCK => q[MOCK],
+  MOCONNOR => q[Matthew O'Connor],
+  MRPERSON => q[Curtis Hawthorne],
+  MSCHILLI => q[Michael Schilli],
+  MSERGEANT => q[MSERGEANT],
+  NPEREZ => q[Nicholas Perez],
+  NUFFIN => q[Yuval Kogman],
+  PAULV => q[Paul Visscher],
+  PERIGRIN => q[Chris Prather],
+  PGUZIS => q[Peter Guzis],
+  PHAYLON => q[Robert 'phaylon' Sedlacek],
+  PLU => q[Johannes Plunien],
+  PRIVI => q[Markus Mueller],
+  PTINSLEY => q[Paul David Tinsley],
+  RCAPUTO => q[Rocco Caputo],
+  RCLAMP => q[Richard Clamp],
+  RDB => q[Rob Bloodgood],
+  REVMISCHA => q[Mischa Spiegelmock],
+  RJP => q[Rob Partington],
+  RKITOVER => q[Rafael Kitover],
+  SABECK => q[Scott Beck],
+  SAPER => q[Sebastien Aperghis-Tramoni],
+  SEGAN => q[Sean Egan],
+  SHARIFULN => q[Anatoly Sharifulin],
+  SMCNABB => q[Steve McNabb],
+  SPADKINS => q[Stephen Adkins],
+  STE => q[Steve James],
+  SUNGO => q[sungo],
+  SUZUKI => q[Yuji Suzuki],
+  TAG => q[Scott McCoy],
+  TBR => q[Thiago Berlitz Rondon],
+  TOKUHIROM => q[Tokuhiro Matsuno],
+  TONYC => q[Tony Cook],
+  TYPESTER => q[Daisuke Murase],
+  ULTRADM => q[George Nistorica],
+  VANY => q[Ivan B. Serezhkin],
+  WANG => q[wb@95700.net],
+  WHOPPIX => q[Jonathan Ringstad],
+  XANTUS => q[David Davis],
+  XSAWYERX => q[Sawyer X],
+  YAPPO => q[Kazuhiro Osawa],
+  YBLUSSEAU => q[Yves Blusseau],
+  ZOFFIX => q[Zoffix Znet],
+
+=head1 SEE ALSO
+
+L<Acme::CPANAuthors>
+
+L<POE>
+
+=cut

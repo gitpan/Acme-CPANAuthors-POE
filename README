@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.18
+    version 0.20
 
 SYNOPSIS
         use Acme::CPANAuthors;
