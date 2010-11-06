@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 BEGIN {
-  $Acme::CPANAuthors::POE::VERSION = '0.16';
+  $Acme::CPANAuthors::POE::VERSION = '0.18';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -61,6 +61,7 @@ use Acme::CPANAuthors::Register (
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
   KIRILLM => q[Kirill Miazine],
+  KIXX => q[Christian-Rolf Gruen],
   LARRYSH => q[Larry Shatzer Jr],
   MAHEX => q[Mark A. Hershberger],
   MARTIJN => q[Martijn van Beers],
@@ -70,15 +71,18 @@ use Acme::CPANAuthors::Register (
   MIKI => q[Takeshi Miki],
   MISCHKE => q[Mark McConnell],
   MIYAGAWA => q[Tatsuhiko Miyagawa],
+  MLEHMANN => q[Marc Lehmann],
   MMIMS => q[Marc Mims],
   MMORGAN => q[Mark Morgan],
   MOCK => q[MOCK],
   MOCONNOR => q[Matthew O'Connor],
   MRPERSON => q[Curtis Hawthorne],
+  MSCHILLI => q[Michael Schilli],
   MSERGEANT => q[MSERGEANT],
   NPEREZ => q[Nicholas Perez],
   NUFFIN => q[Yuval Kogman],
   PAULV => q[Paul Visscher],
+  PERIGRIN => q[Chris Prather],
   PGUZIS => q[Peter Guzis],
   PHAYLON => q[Robert 'phaylon' Sedlacek],
   PLU => q[Johannes Plunien],
@@ -95,6 +99,7 @@ use Acme::CPANAuthors::Register (
   SEGAN => q[Sean Egan],
   SHARIFULN => q[Anatoly Sharifulin],
   SMCNABB => q[Steve McNabb],
+  SPADKINS => q[Stephen Adkins],
   STE => q[Steve James],
   SUNGO => q[sungo],
   SUZUKI => q[Yuji Suzuki],
@@ -126,7 +131,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.16
+version 0.18
 
 =head1 SYNOPSIS
 
@@ -201,6 +206,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
   KIRILLM => q[Kirill Miazine],
+  KIXX => q[Christian-Rolf Gruen],
   LARRYSH => q[Larry Shatzer Jr],
   MAHEX => q[Mark A. Hershberger],
   MARTIJN => q[Martijn van Beers],
@@ -210,15 +216,18 @@ It is currently statically generated information, I hope to make it dynamic in t
   MIKI => q[Takeshi Miki],
   MISCHKE => q[Mark McConnell],
   MIYAGAWA => q[Tatsuhiko Miyagawa],
+  MLEHMANN => q[Marc Lehmann],
   MMIMS => q[Marc Mims],
   MMORGAN => q[Mark Morgan],
   MOCK => q[MOCK],
   MOCONNOR => q[Matthew O'Connor],
   MRPERSON => q[Curtis Hawthorne],
+  MSCHILLI => q[Michael Schilli],
   MSERGEANT => q[MSERGEANT],
   NPEREZ => q[Nicholas Perez],
   NUFFIN => q[Yuval Kogman],
   PAULV => q[Paul Visscher],
+  PERIGRIN => q[Chris Prather],
   PGUZIS => q[Peter Guzis],
   PHAYLON => q[Robert 'phaylon' Sedlacek],
   PLU => q[Johannes Plunien],
@@ -235,6 +244,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   SEGAN => q[Sean Egan],
   SHARIFULN => q[Anatoly Sharifulin],
   SMCNABB => q[Steve McNabb],
+  SPADKINS => q[Stephen Adkins],
   STE => q[Steve James],
   SUNGO => q[sungo],
   SUZUKI => q[Yuji Suzuki],
