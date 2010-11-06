@@ -1,6 +1,9 @@
 NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
+VERSION
+    version 0.16
+
 SYNOPSIS
         use Acme::CPANAuthors;
 
@@ -52,6 +55,7 @@ CONTAINED AUTHORS
       FLETCH => q[Mike Fletcher],
       FRODWITH => q[Paul Driver],
       GDSL => q[Sergey Skvortsov],
+      GETTY => q[Torsten Raudssus],
       GRAYKOT => q[Sergey Kotenko],
       GREGFAST => q[Greg Fast],
       GRODITI => q[Guillermo Roditi],
@@ -124,18 +128,17 @@ CONTAINED AUTHORS
       YBLUSSEAU => q[Yves Blusseau],
       ZOFFIX => q[Zoffix Znet],
 
-AUTHOR
-    Chris "BinGOs" Williams <chris@bingosnet.co.uk>
-
-LICENSE
-    Copyright © Chris Williams
-
-    This module may be used, modified, and distributed under the same terms
-    as Perl itself. Please see the license that came with your Perl
-    distribution for details.
-
 SEE ALSO
     Acme::CPANAuthors
 
     POE
+
+AUTHOR
+    Chris Williams
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2010 by Chris Williams.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
 

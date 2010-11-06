@@ -1,23 +1,53 @@
-Changelog for Acme-CPANAuthors-POE
-==================================
+==============================
+2010-11-06 10:16:42 +0000 0.16
+==============================
 
-0.14  Thu Oct 21 23:36:23 BST 2010
-  - Added Eriam Schaffter and Justin Hunter
+  commit 14a205f4f4a25df50f9bfe9893cda6533a9b76d5
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Sat Nov 6 10:16:42 2010 +0000
+  
+    Converted dist to Dzil. Added Torsten Raudssus as POE author 
 
-0.12  Tue Jun 22 15:29:30 BST 2010
-  - Added Markus Mueller
+==============================
+2010-10-21 23:37:37 +0100 0.14
+==============================
 
-0.10  Thu Apr 29 23:19:31 BST 2010
-  - One in and one out.
+  commit f9649fb5764531fe030ff50d1e52d74193a576a0
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Thu Oct 21 23:37:37 2010 +0100
+  
+    Added Eriam Schaffter and Justin Hunter 
 
-0.08  Tue Mar 16 21:17:39 GMT 2010
-  - Added Mark Morgan
+==============================
+2010-06-22 15:48:05 +0100 0.12
+==============================
 
-0.06  Fri Oct 16 15:03:28 BST 2009
-  - Added Alessandro Ranellucci
+  commit 36b165901811bd3fe33e12bc835c21e9616cbdcd
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Tue Jun 22 15:48:05 2010 +0100
+  
+    Added Markus Mueller 
 
-0.04  Mon Sep 14 10:26:20 BST 2009
-  - Updated with new POE authors
+==============================
+2010-04-29 23:20:09 +0100 0.10
+==============================
 
-0.02	Mon May 25 12:07:59 BST 2009
-	- Initial CPAN Release
+  commit fe54073d3e44c16ad6bec6783be4d94816bfaa51
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Thu Apr 29 23:20:09 2010 +0100
+  
+    One in and one out. 
+
+==============================
+2010-03-16 21:18:06 +0000 0.08
+==============================
+
+  commit bd65a7001ee082f7e3b9901b0acd7f5a606bd466
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Tue Mar 16 21:18:06 2010 +0000
+  
+    Added Mark Morgan 
+
+===================================
+End of changes in the last 365 days
+===================================

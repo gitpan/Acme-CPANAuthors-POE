@@ -1,0 +1,45 @@
+{
+   "abstract" : "We are CPAN Authors of POE",
+   "author" : [
+      "Chris Williams"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.102342, CPAN::Meta::Converter version 2.102400",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Acme-CPANAuthors-POE",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Test::More" : "0.47"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.31"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Acme::CPANAuthors" : 0,
+            "perl" : "v5.6.0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "homepage" : "http://github.com/bingos/acme-cpanauthors-poe/tree",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/bingos/acme-cpanauthors-poe.git",
+         "web" : "http://github.com/bingos/acme-cpanauthors-poe/tree"
+      }
+   },
+   "version" : "0.16"
+}
+
