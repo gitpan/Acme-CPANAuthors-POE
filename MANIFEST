@@ -7,7 +7,6 @@ Makefile.PL
 README
 dist.ini
 examples/synopsis.pl
-fuckity
 lib/Acme/CPANAuthors/POE.pm
 t/00-compile.t
 t/release-pod-coverage.t

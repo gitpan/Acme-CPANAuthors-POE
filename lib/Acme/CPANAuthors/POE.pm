@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 BEGIN {
-  $Acme::CPANAuthors::POE::VERSION = '0.20';
+  $Acme::CPANAuthors::POE::VERSION = '0.22';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -131,7 +131,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.20
+version 0.22
 
 =head1 SYNOPSIS
 

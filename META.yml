@@ -19,4 +19,4 @@ requires:
 resources:
   homepage: http://github.com/bingos/acme-cpanauthors-poe/tree
   repository: git://github.com/bingos/acme-cpanauthors-poe.git
-version: 0.20
+version: 0.22
