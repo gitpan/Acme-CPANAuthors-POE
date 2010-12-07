@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.22
+    version 0.24
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -98,6 +98,7 @@ CONTAINED AUTHORS
       NUFFIN => q[Yuval Kogman],
       PAULV => q[Paul Visscher],
       PERIGRIN => q[Chris Prather],
+      PEVANS => q[Paul Evans],
       PGUZIS => q[Peter Guzis],
       PHAYLON => q[Robert 'phaylon' Sedlacek],
       PLU => q[Johannes Plunien],

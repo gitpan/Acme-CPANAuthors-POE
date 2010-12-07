@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 BEGIN {
-  $Acme::CPANAuthors::POE::VERSION = '0.22';
+  $Acme::CPANAuthors::POE::VERSION = '0.24';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -83,6 +83,7 @@ use Acme::CPANAuthors::Register (
   NUFFIN => q[Yuval Kogman],
   PAULV => q[Paul Visscher],
   PERIGRIN => q[Chris Prather],
+  PEVANS => q[Paul Evans],
   PGUZIS => q[Peter Guzis],
   PHAYLON => q[Robert 'phaylon' Sedlacek],
   PLU => q[Johannes Plunien],
@@ -131,7 +132,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.22
+version 0.24
 
 =head1 SYNOPSIS
 
@@ -228,6 +229,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   NUFFIN => q[Yuval Kogman],
   PAULV => q[Paul Visscher],
   PERIGRIN => q[Chris Prather],
+  PEVANS => q[Paul Evans],
   PGUZIS => q[Peter Guzis],
   PHAYLON => q[Robert 'phaylon' Sedlacek],
   PLU => q[Johannes Plunien],

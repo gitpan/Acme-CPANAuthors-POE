@@ -1,4 +1,14 @@
 ==============================
+2010-12-07 14:15:02 +0000 0.24
+==============================
+
+  commit 9fb39d058d64829b39a8ec774f57f78ecccc4570
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Tue Dec 7 14:15:02 2010 +0000
+  
+    Added Paul Evans 
+
+==============================
 2010-11-07 08:06:56 +0000 0.22
 ==============================
 
@@ -79,6 +89,32 @@
   
     Added Mark Morgan 
 
-===================================
-End of changes in the last 365 days
-===================================
+==============================
+2009-10-16 15:05:28 +0100 0.06
+==============================
+
+  commit 03bb785b5f4a0812be4d50bb52069793e1d502e2
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Fri Oct 16 15:05:28 2009 +0100
+  
+    Added Alessandro Ranellucci
+
+  commit 953451af735e785a812899c0ba946c87fd5d9edd
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Mon Sep 14 13:36:57 2009 +0100
+  
+    Added in the script for generating authors list 
+
+==============================
+2009-09-14 10:28:14 +0100 0.04
+==============================
+
+  commit 6462fd90127891daca21c657a54b0b950c6572f9
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Mon Sep 14 10:28:14 2009 +0100
+  
+    Added new authors and bumped version 
+
+====================================
+End of changes in the last 1825 days
+====================================
