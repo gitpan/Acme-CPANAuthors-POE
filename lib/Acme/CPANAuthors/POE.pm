@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 BEGIN {
-  $Acme::CPANAuthors::POE::VERSION = '0.24';
+  $Acme::CPANAuthors::POE::VERSION = '0.26';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -106,6 +106,7 @@ use Acme::CPANAuthors::Register (
   SUZUKI => q[Yuji Suzuki],
   TAG => q[Scott McCoy],
   TBR => q[Thiago Berlitz Rondon],
+  TJYANG => q[T.J. Yang],
   TOKUHIROM => q[Tokuhiro Matsuno],
   TONYC => q[Tony Cook],
   TYPESTER => q[Daisuke Murase],
@@ -132,7 +133,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.24
+version 0.26
 
 =head1 SYNOPSIS
 
@@ -252,6 +253,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   SUZUKI => q[Yuji Suzuki],
   TAG => q[Scott McCoy],
   TBR => q[Thiago Berlitz Rondon],
+  TJYANG => q[T.J. Yang],
   TOKUHIROM => q[Tokuhiro Matsuno],
   TONYC => q[Tony Cook],
   TYPESTER => q[Daisuke Murase],
