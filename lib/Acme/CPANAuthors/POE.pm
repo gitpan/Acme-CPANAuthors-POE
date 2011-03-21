@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 BEGIN {
-  $Acme::CPANAuthors::POE::VERSION = '0.26';
+  $Acme::CPANAuthors::POE::VERSION = '0.28';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -58,6 +58,7 @@ use Acme::CPANAuthors::Register (
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
+  JSTEBENS => q[Jean Stebens],
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
   KIRILLM => q[Kirill Miazine],
@@ -106,7 +107,6 @@ use Acme::CPANAuthors::Register (
   SUZUKI => q[Yuji Suzuki],
   TAG => q[Scott McCoy],
   TBR => q[Thiago Berlitz Rondon],
-  TJYANG => q[T.J. Yang],
   TOKUHIROM => q[Tokuhiro Matsuno],
   TONYC => q[Tony Cook],
   TYPESTER => q[Daisuke Murase],
@@ -133,7 +133,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.26
+version 0.28
 
 =head1 SYNOPSIS
 
@@ -205,6 +205,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
+  JSTEBENS => q[Jean Stebens],
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
   KIRILLM => q[Kirill Miazine],
@@ -253,7 +254,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   SUZUKI => q[Yuji Suzuki],
   TAG => q[Scott McCoy],
   TBR => q[Thiago Berlitz Rondon],
-  TJYANG => q[T.J. Yang],
   TOKUHIROM => q[Tokuhiro Matsuno],
   TONYC => q[Tony Cook],
   TYPESTER => q[Daisuke Murase],
@@ -279,7 +279,7 @@ Chris Williams
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2010 by Chris Williams.
+This software is copyright (c) 2011 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
