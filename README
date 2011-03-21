@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.28
+    version 0.30
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -79,6 +79,7 @@ CONTAINED AUTHORS
       KIRILLM => q[Kirill Miazine],
       KIXX => q[Christian-Rolf Gruen],
       LARRYSH => q[Larry Shatzer Jr],
+      LOSYME => q[Loic TROCHET],
       MAHEX => q[Mark A. Hershberger],
       MARTIJN => q[Martijn van Beers],
       MCHING => q[Michael Ching],
