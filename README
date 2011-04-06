@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.30
+    version 0.32
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -93,6 +93,7 @@ CONTAINED AUTHORS
       MMORGAN => q[Mark Morgan],
       MOCK => q[MOCK],
       MOCONNOR => q[Matthew O'Connor],
+      MRDVT => q[Michael R. Davis],
       MRPERSON => q[Curtis Hawthorne],
       MSCHILLI => q[Michael Schilli],
       MSERGEANT => q[MSERGEANT],

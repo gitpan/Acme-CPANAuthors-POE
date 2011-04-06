@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
   'PREREQ_PM' => {
     'Acme::CPANAuthors' => '0'
   },
-  'VERSION' => '0.30',
+  'VERSION' => '0.32',
   'test' => {
     'TESTS' => 't/*.t'
   }
