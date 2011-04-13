@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.32
+    version 0.34
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -41,6 +41,7 @@ CONTAINED AUTHORS
       CCOBB => q[Chris Cobb],
       CFEDDE => q[Chris Fedde],
       CWEST => q[Casey West],
+      DAEMON => q[Paul G Webster],
       DAGOLDEN => q[David Golden],
       DAMS => q[Damien Krotkine],
       DAVINCHI => q[Pavel Boldin],
