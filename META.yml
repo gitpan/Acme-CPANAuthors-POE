@@ -5,9 +5,9 @@ author:
 build_requires:
   Test::More: 0.47
 configure_requires:
-  ExtUtils::MakeMaker: 6.31
+  ExtUtils::MakeMaker: 6.30
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 4.200004, CPAN::Meta::Converter version 2.110930'
+generated_by: 'Dist::Zilla version 4.200006, CPAN::Meta::Converter version 2.110930'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -19,4 +19,4 @@ requires:
 resources:
   homepage: http://github.com/bingos/acme-cpanauthors-poe/tree
   repository: git://github.com/bingos/acme-cpanauthors-poe.git
-version: 0.34
+version: 0.36

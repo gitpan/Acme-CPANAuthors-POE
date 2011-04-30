@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.34
+    version 0.36
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -120,6 +120,7 @@ CONTAINED AUTHORS
       SHARIFULN => q[Anatoly Sharifulin],
       SMCNABB => q[Steve McNabb],
       SPADKINS => q[Stephen Adkins],
+      SPARKY => q[Przemyslaw Iskra],
       STE => q[Steve James],
       SUNGO => q[sungo],
       SUZUKI => q[Yuji Suzuki],
