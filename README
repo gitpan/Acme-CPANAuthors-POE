@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.36
+    version 0.38
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -34,6 +34,7 @@ CONTAINED AUTHORS
       ANDYPUR => q[Andrew V. Purshottam],
       APOCAL => q[Apocalypse],
       ARCANEZ => q[Justin Hunter],
+      BEVO => q[Brendan Beveridge],
       BINGOS => q[Chris Williams],
       BSMITH => q[Benjamin Smith],
       BTROTT => q[Benjamin Trott],

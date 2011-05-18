@@ -33,13 +33,13 @@
    },
    "release_status" : "stable",
    "resources" : {
-      "homepage" : "http://github.com/bingos/acme-cpanauthors-poe/tree",
+      "homepage" : "http://github.com/bingos/acme-cpanauthors-poe",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/bingos/acme-cpanauthors-poe.git",
-         "web" : "http://github.com/bingos/acme-cpanauthors-poe/tree"
+         "url" : "http://github.com/bingos/acme-cpanauthors-poe",
+         "web" : "http://github.com/bingos/acme-cpanauthors-poe"
       }
    },
-   "version" : "0.36"
+   "version" : "0.38"
 }
 

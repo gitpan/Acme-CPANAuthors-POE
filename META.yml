@@ -17,6 +17,6 @@ requires:
   Acme::CPANAuthors: 0
   perl: v5.6.0
 resources:
-  homepage: http://github.com/bingos/acme-cpanauthors-poe/tree
-  repository: git://github.com/bingos/acme-cpanauthors-poe.git
-version: 0.36
+  homepage: http://github.com/bingos/acme-cpanauthors-poe
+  repository: http://github.com/bingos/acme-cpanauthors-poe
+version: 0.38
