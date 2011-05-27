@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 BEGIN {
-  $Acme::CPANAuthors::POE::VERSION = '0.38';
+  $Acme::CPANAuthors::POE::VERSION = '0.40';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -60,7 +60,6 @@ use Acme::CPANAuthors::Register (
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
-  JSTEBENS => q[Jean Stebens],
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
   KIRILLM => q[Kirill Miazine],
@@ -112,7 +111,6 @@ use Acme::CPANAuthors::Register (
   SUZUKI => q[Yuji Suzuki],
   TAG => q[Scott McCoy],
   TBR => q[Thiago Berlitz Rondon],
-  TOKUHIROM => q[Tokuhiro Matsuno],
   TONYC => q[Tony Cook],
   TYPESTER => q[Daisuke Murase],
   ULTRADM => q[George Nistorica],
@@ -138,7 +136,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.38
+version 0.40
 
 =head1 SYNOPSIS
 
@@ -212,7 +210,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
-  JSTEBENS => q[Jean Stebens],
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
   KIRILLM => q[Kirill Miazine],
@@ -264,7 +261,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   SUZUKI => q[Yuji Suzuki],
   TAG => q[Scott McCoy],
   TBR => q[Thiago Berlitz Rondon],
-  TOKUHIROM => q[Tokuhiro Matsuno],
   TONYC => q[Tony Cook],
   TYPESTER => q[Daisuke Murase],
   ULTRADM => q[George Nistorica],
