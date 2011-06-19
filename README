@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.40
+    version 0.42
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -75,6 +75,7 @@ CONTAINED AUTHORS
       JMERELO => q[J. J. Merelo Guervos],
       JQUELIN => q[Jerome Quelin],
       JSN => q[dmitry kim],
+      JSTEBENS => q[Jean Stebens],
       KARASIK => q[Dmitry Karasik],
       KESTEB => q[Kevin L. Esteb],
       KIRILLM => q[Kirill Miazine],
@@ -101,7 +102,6 @@ CONTAINED AUTHORS
       NPEREZ => q[Nicholas Perez],
       NUFFIN => q[Yuval Kogman],
       PAULV => q[Paul Visscher],
-      PERIGRIN => q[Chris Prather],
       PEVANS => q[Paul Evans],
       PGUZIS => q[Peter Guzis],
       PHAYLON => q[Robert 'phaylon' Sedlacek],

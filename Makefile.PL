@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-BEGIN { require v5.6.0; }
+use 5.006000;
 
 use ExtUtils::MakeMaker 6.30;
 
@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
   'PREREQ_PM' => {
     'Acme::CPANAuthors' => '0'
   },
-  'VERSION' => '0.40',
+  'VERSION' => '0.42',
   'test' => {
     'TESTS' => 't/*.t'
   }
