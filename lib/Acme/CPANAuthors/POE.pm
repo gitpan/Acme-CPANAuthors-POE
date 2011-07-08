@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 BEGIN {
-  $Acme::CPANAuthors::POE::VERSION = '0.42';
+  $Acme::CPANAuthors::POE::VERSION = '0.44';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -21,6 +21,7 @@ use Acme::CPANAuthors::Register (
   ARCANEZ => q[Justin Hunter],
   BEVO => q[Brendan Beveridge],
   BINGOS => q[Chris Williams],
+  BLHOTSKY => q[Brad Lhotsky],
   BSMITH => q[Benjamin Smith],
   BTROTT => q[Benjamin Trott],
   CATONE => q[Denis Pokataev],
@@ -35,6 +36,7 @@ use Acme::CPANAuthors::Register (
   DMAKI => q[Daisuke Maki],
   DMCC => q[Dan McCormick],
   DOLMEN => q[Olivier 'dolmen' Mengue],
+  DOUGDUDE => q[Douglas Christopher Wilson],
   DSNOPEK => q[David Snopek],
   ECALDER => q[Erick Calder],
   ERIAM => q[Eriam Schaffter],
@@ -56,7 +58,6 @@ use Acme::CPANAuthors::Register (
   JBISBEE => q[Jeff Bisbee],
   JGOFF => q[Jeff Goff],
   JHTHORSEN => q[Jan Henning Thorsen],
-  JKUTEJ => q[Jozef Kutej],
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
@@ -136,7 +137,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.42
+version 0.44
 
 =head1 SYNOPSIS
 
@@ -171,6 +172,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   ARCANEZ => q[Justin Hunter],
   BEVO => q[Brendan Beveridge],
   BINGOS => q[Chris Williams],
+  BLHOTSKY => q[Brad Lhotsky],
   BSMITH => q[Benjamin Smith],
   BTROTT => q[Benjamin Trott],
   CATONE => q[Denis Pokataev],
@@ -185,6 +187,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   DMAKI => q[Daisuke Maki],
   DMCC => q[Dan McCormick],
   DOLMEN => q[Olivier 'dolmen' Mengue],
+  DOUGDUDE => q[Douglas Christopher Wilson],
   DSNOPEK => q[David Snopek],
   ECALDER => q[Erick Calder],
   ERIAM => q[Eriam Schaffter],
@@ -206,7 +209,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   JBISBEE => q[Jeff Bisbee],
   JGOFF => q[Jeff Goff],
   JHTHORSEN => q[Jan Henning Thorsen],
-  JKUTEJ => q[Jozef Kutej],
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],

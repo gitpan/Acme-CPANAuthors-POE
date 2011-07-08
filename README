@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.42
+    version 0.44
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -36,6 +36,7 @@ CONTAINED AUTHORS
       ARCANEZ => q[Justin Hunter],
       BEVO => q[Brendan Beveridge],
       BINGOS => q[Chris Williams],
+      BLHOTSKY => q[Brad Lhotsky],
       BSMITH => q[Benjamin Smith],
       BTROTT => q[Benjamin Trott],
       CATONE => q[Denis Pokataev],
@@ -50,6 +51,7 @@ CONTAINED AUTHORS
       DMAKI => q[Daisuke Maki],
       DMCC => q[Dan McCormick],
       DOLMEN => q[Olivier 'dolmen' Mengue],
+      DOUGDUDE => q[Douglas Christopher Wilson],
       DSNOPEK => q[David Snopek],
       ECALDER => q[Erick Calder],
       ERIAM => q[Eriam Schaffter],
@@ -71,7 +73,6 @@ CONTAINED AUTHORS
       JBISBEE => q[Jeff Bisbee],
       JGOFF => q[Jeff Goff],
       JHTHORSEN => q[Jan Henning Thorsen],
-      JKUTEJ => q[Jozef Kutej],
       JMERELO => q[J. J. Merelo Guervos],
       JQUELIN => q[Jerome Quelin],
       JSN => q[dmitry kim],
