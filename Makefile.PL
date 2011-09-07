@@ -9,24 +9,24 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  'ABSTRACT' => 'We are CPAN Authors of POE',
-  'AUTHOR' => 'Chris Williams',
-  'BUILD_REQUIRES' => {
-    'Test::More' => '0.47'
+  "ABSTRACT" => "We are CPAN Authors of POE",
+  "AUTHOR" => "Chris Williams",
+  "BUILD_REQUIRES" => {
+    "Test::More" => "0.47"
   },
-  'CONFIGURE_REQUIRES' => {
-    'ExtUtils::MakeMaker' => '6.30'
+  "CONFIGURE_REQUIRES" => {
+    "ExtUtils::MakeMaker" => "6.30"
   },
-  'DISTNAME' => 'Acme-CPANAuthors-POE',
-  'EXE_FILES' => [],
-  'LICENSE' => 'perl',
-  'NAME' => 'Acme::CPANAuthors::POE',
-  'PREREQ_PM' => {
-    'Acme::CPANAuthors' => '0'
+  "DISTNAME" => "Acme-CPANAuthors-POE",
+  "EXE_FILES" => [],
+  "LICENSE" => "perl",
+  "NAME" => "Acme::CPANAuthors::POE",
+  "PREREQ_PM" => {
+    "Acme::CPANAuthors" => 0
   },
-  'VERSION' => '0.44',
-  'test' => {
-    'TESTS' => 't/*.t'
+  "VERSION" => "0.46",
+  "test" => {
+    "TESTS" => "t/*.t"
   }
 );
 

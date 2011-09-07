@@ -4,7 +4,7 @@
       "Chris Williams"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.200009, CPAN::Meta::Converter version 2.110930001",
+   "generated_by" : "Dist::Zilla version 4.300000, CPAN::Meta::Converter version 2.112150",
    "license" : [
       "perl_5"
    ],
@@ -33,13 +33,13 @@
    },
    "release_status" : "stable",
    "resources" : {
-      "homepage" : "http://github.com/bingos/acme-cpanauthors-poe",
+      "homepage" : "https://github.com/bingos/acme-cpanauthors-poe",
       "repository" : {
          "type" : "git",
-         "url" : "http://github.com/bingos/acme-cpanauthors-poe",
-         "web" : "http://github.com/bingos/acme-cpanauthors-poe"
+         "url" : "https://github.com/bingos/acme-cpanauthors-poe.git",
+         "web" : "https://github.com/bingos/acme-cpanauthors-poe"
       }
    },
-   "version" : "0.44"
+   "version" : "0.46"
 }
 

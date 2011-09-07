@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.44
+    version 0.46
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -86,6 +86,7 @@ CONTAINED AUTHORS
       MAHEX => q[Mark A. Hershberger],
       MARTIJN => q[Martijn van Beers],
       MCHING => q[Michael Ching],
+      MCMIC => q[Come BERNIGAUD],
       MELO => q[Pedro Melo],
       MIKE => q[Mike Schroeder],
       MIKI => q[Takeshi Miki],
