@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 {
-  $Acme::CPANAuthors::POE::VERSION = '0.48';
+  $Acme::CPANAuthors::POE::VERSION = '0.50';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -28,7 +28,6 @@ use Acme::CPANAuthors::Register (
   CCOBB => q[Chris Cobb],
   CFEDDE => q[Chris Fedde],
   CWEST => q[Casey West],
-  DAEMON => q[Paul G Webster],
   DAGOLDEN => q[David Golden],
   DAMS => q[Damien Krotkine],
   DAVINCHI => q[Pavel Boldin],
@@ -64,6 +63,7 @@ use Acme::CPANAuthors::Register (
   JSTEBENS => q[Jean Stebens],
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
+  KIRILLM => q[Kirill Miazine],
   KIXX => q[Christian-Rolf Gruen],
   LARRYSH => q[Larry Shatzer Jr],
   LOSYME => q[Loic TROCHET],
@@ -138,7 +138,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.48
+version 0.50
 
 =head1 SYNOPSIS
 
@@ -180,7 +180,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   CCOBB => q[Chris Cobb],
   CFEDDE => q[Chris Fedde],
   CWEST => q[Casey West],
-  DAEMON => q[Paul G Webster],
   DAGOLDEN => q[David Golden],
   DAMS => q[Damien Krotkine],
   DAVINCHI => q[Pavel Boldin],
@@ -216,6 +215,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   JSTEBENS => q[Jean Stebens],
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
+  KIRILLM => q[Kirill Miazine],
   KIXX => q[Christian-Rolf Gruen],
   LARRYSH => q[Larry Shatzer Jr],
   LOSYME => q[Loic TROCHET],
