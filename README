@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.50
+    version 0.52
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -94,6 +94,7 @@ CONTAINED AUTHORS
       MLEHMANN => q[Marc Lehmann],
       MMIMS => q[Marc Mims],
       MMORGAN => q[Mark Morgan],
+      MNUNBERG => q[Mark Nunberg],
       MOCK => q[MOCK],
       MOCONNOR => q[Matthew O'Connor],
       MRDVT => q[Michael R. Davis],
@@ -113,6 +114,7 @@ CONTAINED AUTHORS
       RCLAMP => q[Richard Clamp],
       RDB => q[Rob Bloodgood],
       REVMISCHA => q[Mischa Spiegelmock],
+      RJBS => q[Ricardo SIGNES],
       RJP => q[Rob Partington],
       RKITOVER => q[Rafael Kitover],
       SABECK => q[Scott Beck],
@@ -149,7 +151,7 @@ AUTHOR
     Chris Williams
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2011 by Chris Williams.
+    This software is copyright (c) 2012 by Chris Williams.
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.

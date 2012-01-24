@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 {
-  $Acme::CPANAuthors::POE::VERSION = '0.50';
+  $Acme::CPANAuthors::POE::VERSION = '0.52';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -79,6 +79,7 @@ use Acme::CPANAuthors::Register (
   MLEHMANN => q[Marc Lehmann],
   MMIMS => q[Marc Mims],
   MMORGAN => q[Mark Morgan],
+  MNUNBERG => q[Mark Nunberg],
   MOCK => q[MOCK],
   MOCONNOR => q[Matthew O'Connor],
   MRDVT => q[Michael R. Davis],
@@ -98,6 +99,7 @@ use Acme::CPANAuthors::Register (
   RCLAMP => q[Richard Clamp],
   RDB => q[Rob Bloodgood],
   REVMISCHA => q[Mischa Spiegelmock],
+  RJBS => q[Ricardo SIGNES],
   RJP => q[Rob Partington],
   RKITOVER => q[Rafael Kitover],
   SABECK => q[Scott Beck],
@@ -138,7 +140,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.50
+version 0.52
 
 =head1 SYNOPSIS
 
@@ -231,6 +233,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   MLEHMANN => q[Marc Lehmann],
   MMIMS => q[Marc Mims],
   MMORGAN => q[Mark Morgan],
+  MNUNBERG => q[Mark Nunberg],
   MOCK => q[MOCK],
   MOCONNOR => q[Matthew O'Connor],
   MRDVT => q[Michael R. Davis],
@@ -250,6 +253,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   RCLAMP => q[Richard Clamp],
   RDB => q[Rob Bloodgood],
   REVMISCHA => q[Mischa Spiegelmock],
+  RJBS => q[Ricardo SIGNES],
   RJP => q[Rob Partington],
   RKITOVER => q[Rafael Kitover],
   SABECK => q[Scott Beck],
@@ -289,7 +293,7 @@ Chris Williams
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Chris Williams.
+This software is copyright (c) 2012 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
