@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.52
+    version 0.54
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -52,6 +52,7 @@ CONTAINED AUTHORS
       DOLMEN => q[Olivier 'dolmen' Mengue],
       DOUGDUDE => q[Douglas Christopher Wilson],
       DSNOPEK => q[David Snopek],
+      DYLAN => q[Dylan Doxey],
       ECALDER => q[Erick Calder],
       ERIAM => q[Eriam Schaffter],
       EWATERS => q[Eric Waters],
@@ -101,6 +102,7 @@ CONTAINED AUTHORS
       MRPERSON => q[Curtis Hawthorne],
       MSCHILLI => q[Michael Schilli],
       MSERGEANT => q[MSERGEANT],
+      MSTROUT => q[Matt S Trout],
       NPEREZ => q[Nicholas Perez],
       NUFFIN => q[Yuval Kogman],
       PAULV => q[Paul Visscher],

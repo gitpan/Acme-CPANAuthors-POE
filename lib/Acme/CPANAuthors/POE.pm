@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 {
-  $Acme::CPANAuthors::POE::VERSION = '0.52';
+  $Acme::CPANAuthors::POE::VERSION = '0.54';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -37,6 +37,7 @@ use Acme::CPANAuthors::Register (
   DOLMEN => q[Olivier 'dolmen' Mengue],
   DOUGDUDE => q[Douglas Christopher Wilson],
   DSNOPEK => q[David Snopek],
+  DYLAN => q[Dylan Doxey],
   ECALDER => q[Erick Calder],
   ERIAM => q[Eriam Schaffter],
   EWATERS => q[Eric Waters],
@@ -86,6 +87,7 @@ use Acme::CPANAuthors::Register (
   MRPERSON => q[Curtis Hawthorne],
   MSCHILLI => q[Michael Schilli],
   MSERGEANT => q[MSERGEANT],
+  MSTROUT => q[Matt S Trout],
   NPEREZ => q[Nicholas Perez],
   NUFFIN => q[Yuval Kogman],
   PAULV => q[Paul Visscher],
@@ -140,7 +142,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.52
+version 0.54
 
 =head1 SYNOPSIS
 
@@ -191,6 +193,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   DOLMEN => q[Olivier 'dolmen' Mengue],
   DOUGDUDE => q[Douglas Christopher Wilson],
   DSNOPEK => q[David Snopek],
+  DYLAN => q[Dylan Doxey],
   ECALDER => q[Erick Calder],
   ERIAM => q[Eriam Schaffter],
   EWATERS => q[Eric Waters],
@@ -240,6 +243,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   MRPERSON => q[Curtis Hawthorne],
   MSCHILLI => q[Michael Schilli],
   MSERGEANT => q[MSERGEANT],
+  MSTROUT => q[Matt S Trout],
   NPEREZ => q[Nicholas Perez],
   NUFFIN => q[Yuval Kogman],
   PAULV => q[Paul Visscher],
