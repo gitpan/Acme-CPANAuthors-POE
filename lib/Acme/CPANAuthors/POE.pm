@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 {
-  $Acme::CPANAuthors::POE::VERSION = '0.54';
+  $Acme::CPANAuthors::POE::VERSION = '0.56';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -34,7 +34,7 @@ use Acme::CPANAuthors::Register (
   DAZJORZ => q[Sjors Gielen],
   DMAKI => q[Daisuke Maki],
   DMCC => q[Dan McCormick],
-  DOLMEN => q[Olivier 'dolmen' Mengue],
+  DOLMEN => q[Olivier Mengue],
   DOUGDUDE => q[Douglas Christopher Wilson],
   DSNOPEK => q[David Snopek],
   DYLAN => q[Dylan Doxey],
@@ -101,7 +101,6 @@ use Acme::CPANAuthors::Register (
   RCLAMP => q[Richard Clamp],
   RDB => q[Rob Bloodgood],
   REVMISCHA => q[Mischa Spiegelmock],
-  RJBS => q[Ricardo SIGNES],
   RJP => q[Rob Partington],
   RKITOVER => q[Rafael Kitover],
   SABECK => q[Scott Beck],
@@ -142,7 +141,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.54
+version 0.56
 
 =head1 SYNOPSIS
 
@@ -190,7 +189,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   DAZJORZ => q[Sjors Gielen],
   DMAKI => q[Daisuke Maki],
   DMCC => q[Dan McCormick],
-  DOLMEN => q[Olivier 'dolmen' Mengue],
+  DOLMEN => q[Olivier Mengue],
   DOUGDUDE => q[Douglas Christopher Wilson],
   DSNOPEK => q[David Snopek],
   DYLAN => q[Dylan Doxey],
@@ -257,7 +256,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   RCLAMP => q[Richard Clamp],
   RDB => q[Rob Bloodgood],
   REVMISCHA => q[Mischa Spiegelmock],
-  RJBS => q[Ricardo SIGNES],
   RJP => q[Rob Partington],
   RKITOVER => q[Rafael Kitover],
   SABECK => q[Scott Beck],
