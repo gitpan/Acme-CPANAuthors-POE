@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 {
-  $Acme::CPANAuthors::POE::VERSION = '0.56';
+  $Acme::CPANAuthors::POE::VERSION = '0.58';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -55,18 +55,17 @@ use Acme::CPANAuthors::Register (
   HEYTRAV => q[William Travis Holton],
   HINRIK => q[Hinrik Orn Sigurdsson],
   INFIDEL => q[Jason McManus],
+  IRONCAMEL => q[Naveed Massjouni],
   JBISBEE => q[Jeff Bisbee],
   JGOFF => q[Jeff Goff],
   JHTHORSEN => q[Jan Henning Thorsen],
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
-  JSTEBENS => q[Jean Stebens],
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
   KIRILLM => q[Kirill Miazine],
   KIXX => q[Christian-Rolf Gruen],
-  LARRYSH => q[Larry Shatzer Jr],
   LOSYME => q[Loic TROCHET],
   MAHEX => q[Mark A. Hershberger],
   MARTIJN => q[Martijn van Beers],
@@ -107,6 +106,7 @@ use Acme::CPANAuthors::Register (
   SAPER => q[Sebastien Aperghis-Tramoni],
   SEGAN => q[Sean Egan],
   SHARIFULN => q[Anatoly Sharifulin],
+  SIRMXE => q[Gary Warman],
   SMCNABB => q[Steve McNabb],
   SPADKINS => q[Stephen Adkins],
   SPARKY => q[Przemyslaw Iskra],
@@ -141,7 +141,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.56
+version 0.58
 
 =head1 SYNOPSIS
 
@@ -210,18 +210,17 @@ It is currently statically generated information, I hope to make it dynamic in t
   HEYTRAV => q[William Travis Holton],
   HINRIK => q[Hinrik Orn Sigurdsson],
   INFIDEL => q[Jason McManus],
+  IRONCAMEL => q[Naveed Massjouni],
   JBISBEE => q[Jeff Bisbee],
   JGOFF => q[Jeff Goff],
   JHTHORSEN => q[Jan Henning Thorsen],
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
-  JSTEBENS => q[Jean Stebens],
   KARASIK => q[Dmitry Karasik],
   KESTEB => q[Kevin L. Esteb],
   KIRILLM => q[Kirill Miazine],
   KIXX => q[Christian-Rolf Gruen],
-  LARRYSH => q[Larry Shatzer Jr],
   LOSYME => q[Loic TROCHET],
   MAHEX => q[Mark A. Hershberger],
   MARTIJN => q[Martijn van Beers],
@@ -262,6 +261,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   SAPER => q[Sebastien Aperghis-Tramoni],
   SEGAN => q[Sean Egan],
   SHARIFULN => q[Anatoly Sharifulin],
+  SIRMXE => q[Gary Warman],
   SMCNABB => q[Steve McNabb],
   SPADKINS => q[Stephen Adkins],
   SPARKY => q[Przemyslaw Iskra],
