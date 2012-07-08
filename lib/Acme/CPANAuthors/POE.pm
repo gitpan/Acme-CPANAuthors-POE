@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 {
-  $Acme::CPANAuthors::POE::VERSION = '0.58';
+  $Acme::CPANAuthors::POE::VERSION = '0.60';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -100,6 +100,7 @@ use Acme::CPANAuthors::Register (
   RCLAMP => q[Richard Clamp],
   RDB => q[Rob Bloodgood],
   REVMISCHA => q[Mischa Spiegelmock],
+  RJBS => q[Ricardo SIGNES],
   RJP => q[Rob Partington],
   RKITOVER => q[Rafael Kitover],
   SABECK => q[Scott Beck],
@@ -141,7 +142,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.58
+version 0.60
 
 =head1 SYNOPSIS
 
@@ -255,6 +256,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   RCLAMP => q[Richard Clamp],
   RDB => q[Rob Bloodgood],
   REVMISCHA => q[Mischa Spiegelmock],
+  RJBS => q[Ricardo SIGNES],
   RJP => q[Rob Partington],
   RKITOVER => q[Rafael Kitover],
   SABECK => q[Scott Beck],
