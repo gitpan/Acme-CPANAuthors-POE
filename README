@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.62
+    version 0.64
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -34,6 +34,7 @@ CONTAINED AUTHORS
       ANDYPUR => q[Andrew V. Purshottam],
       APOCAL => q[Apocalypse],
       ARCANEZ => q[Justin Hunter],
+      AVENJ => q[Jon Portnoy],
       BEVO => q[Brendan Beveridge],
       BINGOS => q[Chris Williams],
       BLHOTSKY => q[Brad Lhotsky],
@@ -152,7 +153,7 @@ AUTHOR
     Chris Williams
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2012 by Chris Williams.
+    This software is copyright (c) 2013 by Chris Williams.
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.

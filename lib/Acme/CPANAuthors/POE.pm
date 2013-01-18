@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 {
-  $Acme::CPANAuthors::POE::VERSION = '0.62';
+  $Acme::CPANAuthors::POE::VERSION = '0.64';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -19,6 +19,7 @@ use Acme::CPANAuthors::Register (
   ANDYPUR => q[Andrew V. Purshottam],
   APOCAL => q[Apocalypse],
   ARCANEZ => q[Justin Hunter],
+  AVENJ => q[Jon Portnoy],
   BEVO => q[Brendan Beveridge],
   BINGOS => q[Chris Williams],
   BLHOTSKY => q[Brad Lhotsky],
@@ -131,8 +132,8 @@ use Acme::CPANAuthors::Register (
 
 q[We are POEsters];
 
-
 __END__
+
 =pod
 
 =head1 NAME
@@ -141,7 +142,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.62
+version 0.64
 
 =head1 SYNOPSIS
 
@@ -174,6 +175,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   ANDYPUR => q[Andrew V. Purshottam],
   APOCAL => q[Apocalypse],
   ARCANEZ => q[Justin Hunter],
+  AVENJ => q[Jon Portnoy],
   BEVO => q[Brendan Beveridge],
   BINGOS => q[Chris Williams],
   BLHOTSKY => q[Brad Lhotsky],
@@ -295,10 +297,9 @@ Chris Williams
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Chris Williams.
+This software is copyright (c) 2013 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
