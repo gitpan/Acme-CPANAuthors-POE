@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.66
+    version 0.68
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -121,6 +121,7 @@ CONTAINED AUTHORS
       RKITOVER => q[Rafael Kitover],
       SABECK => q[Scott Beck],
       SAPER => q[Sebastien Aperghis-Tramoni],
+      SCILLEY => q[Scott Cilley],
       SEGAN => q[Sean Egan],
       SHARIFULN => q[Anatoly Sharifulin],
       SIRMXE => q[Gary Warman],
