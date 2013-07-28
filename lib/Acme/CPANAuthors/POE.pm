@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::POE;
 {
-  $Acme::CPANAuthors::POE::VERSION = '0.68';
+  $Acme::CPANAuthors::POE::VERSION = '0.70';
 }
 
 #ABSTRACT: We are CPAN Authors of POE
@@ -73,6 +73,7 @@ use Acme::CPANAuthors::Register (
   MCHING => q[Michael Ching],
   MCMIC => q[Come BERNIGAUD],
   MELO => q[Pedro Melo],
+  MGV => q[Marius Gavrilescu],
   MIKE => q[Mike Schroeder],
   MIKI => q[Takeshi Miki],
   MISCHKE => q[Mark McConnell],
@@ -118,6 +119,7 @@ use Acme::CPANAuthors::Register (
   SUZUKI => q[Yuji Suzuki],
   TAG => q[Scott McCoy],
   TBR => q[Thiago Berlitz Rondon],
+  TEEJAY => q[Aaron James Trevena],
   TONYC => q[Tony Cook],
   TREEKI => q[Jan A.],
   TYPESTER => q[Daisuke Murase],
@@ -144,7 +146,7 @@ Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.68
+version 0.70
 
 =head1 SYNOPSIS
 
@@ -231,6 +233,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   MCHING => q[Michael Ching],
   MCMIC => q[Come BERNIGAUD],
   MELO => q[Pedro Melo],
+  MGV => q[Marius Gavrilescu],
   MIKE => q[Mike Schroeder],
   MIKI => q[Takeshi Miki],
   MISCHKE => q[Mark McConnell],
@@ -276,6 +279,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   SUZUKI => q[Yuji Suzuki],
   TAG => q[Scott McCoy],
   TBR => q[Thiago Berlitz Rondon],
+  TEEJAY => q[Aaron James Trevena],
   TONYC => q[Tony Cook],
   TREEKI => q[Jan A.],
   TYPESTER => q[Daisuke Murase],

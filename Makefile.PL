@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
     "Acme::CPANAuthors" => 0
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.68",
+  "VERSION" => "0.70",
   "test" => {
     "TESTS" => "t/*.t"
   }

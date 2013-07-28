@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.68
+    version 0.70
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -88,6 +88,7 @@ CONTAINED AUTHORS
       MCHING => q[Michael Ching],
       MCMIC => q[Come BERNIGAUD],
       MELO => q[Pedro Melo],
+      MGV => q[Marius Gavrilescu],
       MIKE => q[Mike Schroeder],
       MIKI => q[Takeshi Miki],
       MISCHKE => q[Mark McConnell],
@@ -133,6 +134,7 @@ CONTAINED AUTHORS
       SUZUKI => q[Yuji Suzuki],
       TAG => q[Scott McCoy],
       TBR => q[Thiago Berlitz Rondon],
+      TEEJAY => q[Aaron James Trevena],
       TONYC => q[Tony Cook],
       TREEKI => q[Jan A.],
       TYPESTER => q[Daisuke Murase],
