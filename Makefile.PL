@@ -24,8 +24,13 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "Acme::CPANAuthors" => 0
   },
-  "TEST_REQUIRES" => {},
-  "VERSION" => "0.70",
+  "TEST_REQUIRES" => {
+    "File::Spec" => 0,
+    "IO::Handle" => 0,
+    "IPC::Open3" => 0,
+    "Test::More" => 0
+  },
+  "VERSION" => "0.72",
   "test" => {
     "TESTS" => "t/*.t"
   }

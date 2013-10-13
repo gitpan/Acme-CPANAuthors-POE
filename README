@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 VERSION
-    version 0.70
+    version 0.72
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -111,7 +111,7 @@ CONTAINED AUTHORS
       PGUZIS => q[Peter Guzis],
       PHAYLON => q[Robert 'phaylon' Sedlacek],
       PLU => q[Johannes Plunien],
-      PRIVI => q[Markus Mueller],
+      PRIVI => q[Markus Schraeder],
       PTINSLEY => q[Paul David Tinsley],
       RCAPUTO => q[Rocco Caputo],
       RCLAMP => q[Richard Clamp],

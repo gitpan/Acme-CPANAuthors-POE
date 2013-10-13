@@ -1,16 +1,32 @@
 ==================================================
-Changes from 2008-07-29 00:00:00 +0000 to present.
+Changes from 2008-10-14 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.70 at 2013-07-28 08:37:44 +0000
+version 0.72 at 2013-10-13 21:01:24 +0000
 -----------------------------------------
+
+  Change: c61d7fd165f24856dd8829aa20c25ae811585282
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date : 2013-10-13 22:01:24 +0000
+
+    Some moving and a-shaking 
 
   Change: 15beea4a85fbca80812eec85e3898d9b25594411
   Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
   Date : 2013-07-28 09:37:44 +0000
 
     Added 2 new POE authors 
+
+-----------------------------------------
+version 0.70 at 2013-10-13 20:26:57 +0000
+-----------------------------------------
+
+  Change: ea164a4e41ece738b57529909b69be2ea6d10ac2
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date : 2013-10-13 21:26:57 +0000
+
+    Some moving and a-shaking 
 
 -----------------------------------------
 version 0.68 at 2013-05-04 17:15:19 +0000
