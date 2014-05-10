@@ -3,23 +3,23 @@ abstract: 'We are CPAN Authors of POE'
 author:
   - 'Chris Williams'
 build_requires:
-  File::Spec: 0
-  IO::Handle: 0
-  IPC::Open3: 0
-  Test::More: 0.47
+  File::Spec: '0'
+  IO::Handle: '0'
+  IPC::Open3: '0'
+  Test::More: '0.47'
 configure_requires:
-  ExtUtils::MakeMaker: 6.30
+  ExtUtils::MakeMaker: '6.30'
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 4.300039, CPAN::Meta::Converter version 2.132830'
+generated_by: 'Dist::Zilla version 5.015, CPAN::Meta::Converter version 2.141170'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
+  version: '1.4'
 name: Acme-CPANAuthors-POE
 requires:
-  Acme::CPANAuthors: 0
+  Acme::CPANAuthors: '0'
   perl: v5.6.0
 resources:
   homepage: https://github.com/bingos/acme-cpanauthors-poe
   repository: https://github.com/bingos/acme-cpanauthors-poe.git
-version: 0.72
+version: '0.74'

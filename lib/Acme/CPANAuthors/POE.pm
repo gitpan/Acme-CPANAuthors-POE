@@ -1,8 +1,5 @@
 package Acme::CPANAuthors::POE;
-{
-  $Acme::CPANAuthors::POE::VERSION = '0.72';
-}
-
+$Acme::CPANAuthors::POE::VERSION = '0.74';
 #ABSTRACT: We are CPAN Authors of POE
 
 use strict;
@@ -49,6 +46,7 @@ use Acme::CPANAuthors::Register (
   GRAYKOT => q[Sergey Kotenko],
   GREGFAST => q[Greg Fast],
   GRODITI => q[Guillermo Roditi],
+  GVL => q[Gelu Lupas],
   GWYN => q[Philip Gwyn],
   HACHI => q[Jonathan Steinert],
   HANENKAMP => q[Andrew Sterling Hanenkamp],
@@ -59,7 +57,6 @@ use Acme::CPANAuthors::Register (
   IRONCAMEL => q[Naveed Massjouni],
   JBISBEE => q[Jeff Bisbee],
   JGOFF => q[Jeff Goff],
-  JHTHORSEN => q[Jan Henning Thorsen],
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
@@ -101,6 +98,7 @@ use Acme::CPANAuthors::Register (
   RCAPUTO => q[Rocco Caputo],
   RCLAMP => q[Richard Clamp],
   RDB => q[Rob Bloodgood],
+  RDRAKE => q[Robert Drake],
   REVMISCHA => q[Mischa Spiegelmock],
   RJBS => q[Ricardo SIGNES],
   RJP => q[Rob Partington],
@@ -123,7 +121,7 @@ use Acme::CPANAuthors::Register (
   TONYC => q[Tony Cook],
   TREEKI => q[Jan A.],
   TYPESTER => q[Daisuke Murase],
-  ULTRADM => q[George Nistorica],
+  ULTRADM => q[George Patrascan],
   VANY => q[Ivan B. Serezhkin],
   WANG => q[wb@95700.net],
   WHOPPIX => q[Jonathan Ringstad],
@@ -140,13 +138,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 Acme::CPANAuthors::POE - We are CPAN Authors of POE
 
 =head1 VERSION
 
-version 0.72
+version 0.74
 
 =head1 SYNOPSIS
 
@@ -209,6 +209,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   GRAYKOT => q[Sergey Kotenko],
   GREGFAST => q[Greg Fast],
   GRODITI => q[Guillermo Roditi],
+  GVL => q[Gelu Lupas],
   GWYN => q[Philip Gwyn],
   HACHI => q[Jonathan Steinert],
   HANENKAMP => q[Andrew Sterling Hanenkamp],
@@ -219,7 +220,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   IRONCAMEL => q[Naveed Massjouni],
   JBISBEE => q[Jeff Bisbee],
   JGOFF => q[Jeff Goff],
-  JHTHORSEN => q[Jan Henning Thorsen],
   JMERELO => q[J. J. Merelo Guervos],
   JQUELIN => q[Jerome Quelin],
   JSN => q[dmitry kim],
@@ -261,6 +261,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   RCAPUTO => q[Rocco Caputo],
   RCLAMP => q[Richard Clamp],
   RDB => q[Rob Bloodgood],
+  RDRAKE => q[Robert Drake],
   REVMISCHA => q[Mischa Spiegelmock],
   RJBS => q[Ricardo SIGNES],
   RJP => q[Rob Partington],
@@ -283,7 +284,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   TONYC => q[Tony Cook],
   TREEKI => q[Jan A.],
   TYPESTER => q[Daisuke Murase],
-  ULTRADM => q[George Nistorica],
+  ULTRADM => q[George Patrascan],
   VANY => q[Ivan B. Serezhkin],
   WANG => q[wb@95700.net],
   WHOPPIX => q[Jonathan Ringstad],
@@ -305,7 +306,7 @@ Chris Williams
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2013 by Chris Williams.
+This software is copyright (c) 2014 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
