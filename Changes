@@ -1,10 +1,16 @@
 ==================================================
-Changes from 2009-05-11 00:00:00 +0000 to present.
+Changes from 2009-08-17 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.74 at 2014-05-10 23:29:57 +0000
+version 0.76 at 2014-08-16 17:20:07 +0000
 -----------------------------------------
+
+  Change: 64c1166d1e7fbab063a1fc3a8c9e4e3acf471daf
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date : 2014-08-16 18:20:07 +0000
+
+    Add Bot::BasicBot authors too 
 
   Change: 7a263c00196ba668f764048a3fa474768af9e0a3
   Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
@@ -12,21 +18,25 @@ version 0.74 at 2014-05-10 23:29:57 +0000
 
     Some new authors 
 
+-----------------------------------------
+version 0.74 at 2014-08-16 17:15:33 +0000
+-----------------------------------------
+
+  Change: 8a3bfa207b18d2c445e02a813de4dada04fa0faf
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date : 2014-08-16 18:15:33 +0000
+
+    Add Bot::BasicBot authors too 
+
+-----------------------------------------
+version 0.72 at 2013-10-13 21:01:24 +0000
+-----------------------------------------
+
   Change: c61d7fd165f24856dd8829aa20c25ae811585282
   Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
   Date : 2013-10-13 22:01:24 +0000
 
     Some moving and a-shaking 
-
------------------------------------------
-version 0.72 at 2013-11-24 17:19:52 +0000
------------------------------------------
-
-  Change: 8913d1a30d9af1e0a4e074a4dbb940104e2a9db3
-  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
-  Date : 2013-11-24 17:19:52 +0000
-
-    Update PRIVI 
 
 -----------------------------------------
 version 0.70 at 2013-07-28 08:37:44 +0000
@@ -381,34 +391,6 @@ version 0.04 at 2009-09-14 09:28:14 +0000
 
     Added new authors and bumped version 
 
------------------------------------------
-version 0.02 at 2009-05-25 11:09:48 +0000
------------------------------------------
-
-  Change: 2ba9b529eeaa985c1ea005fca59cf94be7993d5a
-  Author: Chris Williams <chris@bingosnet.co.uk>
-  Date : 2009-05-25 12:09:48 +0000
-
-    Added MANIFEST 
-
-  Change: 1b854bc5329da88d00d2fe846397af4bfd440cb2
-  Author: Chris Williams <chris@bingosnet.co.uk>
-  Date : 2009-05-25 12:08:25 +0000
-
-    Updated the list of authors, added pod tests and example 
-
-  Change: 37a6be2eaf350dbaf9bdb13baa02885cb6a1a997
-  Author: Chris Williams <chris@bingosnet.co.uk>
-  Date : 2009-05-25 08:45:41 +0000
-
-    Added automatic README generation 
-
-  Change: 6e1cb7fa94b0b69de571e29035db3bc5077e549c
-  Author: Chris Williams <chris@bingosnet.co.uk>
-  Date : 2009-05-25 08:43:22 +0000
-
-    Initial commit 
-
-================
-End of releases.
-================
+===============================================
+Plus 1 release after 2009-08-17 00:00:00 +0000.
+===============================================
